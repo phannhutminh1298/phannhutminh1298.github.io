@@ -3,4 +3,9 @@
 languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
+weight = 2
+[vi]
+languageName = "Tieng Viet"
+languagedirection = "ltr"
+title = "Example Site"
 weight = 1
