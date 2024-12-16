@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2023
+since = 2024
 customText = ""
 
 [dateFormat]
@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "giscus"
 
 [comments.disqusjs]
 shortname = ""
@@ -128,13 +128,13 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "phannhutminh1298/phannhutminh1298.github.io"
+repoID = "R_kgDONdh9kw"
+category = "General"
+categoryID = "DIC_kwDONdh9k84ClRST"
+mapping = "pathname"
+lightTheme = "noborder_light"
+darkTheme = "noborder_dark"
 reactionsEnabled = 1
 emitMetadata = 0
 
