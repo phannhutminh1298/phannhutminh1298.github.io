@@ -36,6 +36,7 @@ jobs:
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
+                  #nếu cần xài bản mới nhất của Hugo thì thay dòng dưới bằng dòng này hugo-version: "latest"
                   hugo-version: 0.123.8
                   extended: true
 
