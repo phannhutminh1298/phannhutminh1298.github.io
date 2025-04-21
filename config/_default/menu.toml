@@ -8,17 +8,33 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/phannhutminh1298"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-instagram"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "x"
+name = "X"
+url = "https://x.com/phan_minh94158"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-x"
+
+[[social]]
+identifier = "artstation"
+name = "Artstation"
+url = "https://x.com/phan_minh94158"
+
+[social.params]
+icon = "brand-artstation"
+
+[[social]]
+indentifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/phannhutminh1298"
+
+[[social.params]]
+icon = "brand-facebook"
