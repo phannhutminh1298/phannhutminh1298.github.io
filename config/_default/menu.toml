@@ -7,6 +7,8 @@
 #icon = "home"
 #newtab = true
 
+
+
 [[social]]
 identifier = "instagram"
 name = "Instagram"
@@ -26,7 +28,7 @@ icon = "brand-x"
 [[social]]
 identifier = "artstation"
 name = "Artstation"
-url = "https://x.com/phan_minh94158"
+url = "https://artstation.com/user-2793421"
 
 [social.params]
 icon = "brand-artstation"
