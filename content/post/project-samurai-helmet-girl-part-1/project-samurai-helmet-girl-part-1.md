@@ -19,11 +19,11 @@ Hi, I'll start a new 3d fanart project of Huke's Illustration. I'll keep updatin
 
 Using an already made basemesh from my old project with some modifications. Since her arms is mechanical and bigger than average human arm so I'll leave the basemesh as it is.
 
-![front](post/project-samurai-helmet-girl-part-1/body-basemesh.webp)
+![front](post/project-samurai-helmet-girl-part-1/body_basemesh.webp)
 
-![side](post/project-samurai-helmet-girl-part-1/body-basemesh-side.webp)
+![side](post/project-samurai-helmet-girl-part-1/body_basemesh_side.webp)
 
-![rear](post/project-samurai-helmet-girl-part-1/body-basemesh-rear.webp)
+![rear](post/project-samurai-helmet-girl-part-1/body_basemesh_rear.webp)
 
 ## Head Details
 
