@@ -32,8 +32,8 @@ draft: false
 
 Dùng cho việc làm chainmail,hoạ tiết vải vóc, hard surface detail,...
 
-{{ youtube "ZVEnWMNIkss"}}
+{{< youtube "ZVEnWMNIkss" >}}
 
 ### Zbrush Nanomesh rotation
 
-{{ youtube "ekdaY2hG_LM" }}
+{{< youtube "ekdaY2hG_LM" >}}
