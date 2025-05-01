@@ -27,3 +27,13 @@ draft: false
 ### Làm biểu tượng bo sát bề mặt vật thể (logo quần áo bo sát cơ thể người).
 
 {{< youtube "NnAOFg1Gtkg" >}}
+
+### Tất tần tật về Micropoly + NanoMesh
+
+Dùng cho việc làm chainmail,hoạ tiết vải vóc, hard surface detail,...
+
+{{ youtube "ZVEnWMNIkss"}}
+
+### Zbrush Nanomesh rotation
+
+{{ youtube "ekdaY2hG_LM" }}
