@@ -2,6 +2,7 @@
 title: Example Category
 description: A description of this category
 image:
+draft: true
 
 # Badge style
 style:
