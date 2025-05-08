@@ -23,10 +23,10 @@ draft: true
 | Extra Fans | [2x THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) | 400,000 |
 | Case | [Ares Anubis - 4FAN RGB](https://hoanghapc.vn/vo-case-ares-anubis-4fan-rgb) | 850,000 |
 | Primary SSD | [Kioxia Exceria Plus G3 2TB M.2 NVMe](https://hoanghapc.vn/o-cung-ssd-kioxia-exceria-plus-g3-2tb) | 3,190,000 |
-| Secondary SSD | [TeamGroup 2TB Z44A5 PCIe Gen4 x4 NVMe](https://ictsaigon.com.vn/o-cung-ssd-teamgroup-2tb-z44a5-pcie-gen4-x-4-nvme) | 2,790,000 |
+| Secondary SSD | [AORUS NVMe Gen4 SSD 2TB](https://tinhocngoisao.com/products/o-cung-ssd-2tb-gigabyte-aorus-m-2-nvme-pcie-gen4-gp-asm2ne6200tttd) | 2,650,000 |
 | Power Supply | [Adata XPG Core Shift 850W Gold](https://hoanghapc.vn/nguon-adata-xpg-core-shift-850w-gold-white) | 1,990,000 |
 | Monitor | [MSI PRO MP273QP E2 (27inch/ 2K/ IPS/ 100Hz)](https://hoanghapc.vn/man-hinh-msi-pro-mp273qp-e2) | 4,690,000 |
-| **Total** | | **52,880,000** |
+| **Total** | | **52,740,000** |
 
 > Just purchase this year ☺️.
 
