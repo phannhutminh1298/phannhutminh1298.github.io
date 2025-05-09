@@ -13,22 +13,19 @@ draft: true
 
 ## PC Build for 3D & gaming with Prices :computer:
 
-| Component | Model | Price (VNĐ) |
-|-----------|-------|-------------:|
-| CPU | [AMD Ryzen 9 7950X](https://hoanghapc.vn/cpu-amd-ryzen-9-7950x-tray) | 9,990,000 |
-| GPU | [INNO3D RTX 5060 Ti 16GB TWIN X2](https://hoanghapc.vn/vga-inno3d-rtx-5060-ti-16gb-twin-x2) | 14,500,000 |
-| Motherboard | [ASUS PRIME X870-P WIFI-CSM](https://hoanghapc.vn/mainboard-asus-prime-x870-p-wifi-csm) | 6,990,000 |
-| RAM | [ADATA XPG LANCER RGB 64GB DDR5-6000MHz (2x32GB)](https://hoanghapc.vn/ram-ddr5-adata-xpg-lancer-rgb-64gb-6000mhz-black) | 5,990,000 |
-| CPU Cooler | [Thermalright Frost Commander 140](https://hoanghapc.vn/tan-nhiet-thermalright-frost-commander-140) | 1,500,000 |
-| Extra Fans | [2x THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) | 400,000 |
-| Case | [Ares Anubis - 4FAN RGB](https://hoanghapc.vn/vo-case-ares-anubis-4fan-rgb) | 850,000 |
-| Primary SSD | [Kioxia Exceria Plus G3 2TB M.2 NVMe](https://hoanghapc.vn/o-cung-ssd-kioxia-exceria-plus-g3-2tb) | 3,190,000 |
-| Secondary SSD | [AORUS NVMe Gen4 SSD 2TB](https://tinhocngoisao.com/products/o-cung-ssd-2tb-gigabyte-aorus-m-2-nvme-pcie-gen4-gp-asm2ne6200tttd) | 2,650,000 |
-| Power Supply | [Adata XPG Core Shift 850W Gold](https://hoanghapc.vn/nguon-adata-xpg-core-shift-850w-gold-white) | 1,990,000 |
-| Monitor | [MSI PRO MP273QP E2 (27inch/ 2K/ IPS/ 100Hz)](https://hoanghapc.vn/man-hinh-msi-pro-mp273qp-e2) | 4,690,000 |
-| **Total** | | **52,740,000** |
-
-> Just purchase this year ☺️.
+| Component | Model |
+|:-----------|:-------|
+| CPU | [AMD Ryzen 9 7950X](https://hoanghapc.vn/cpu-amd-ryzen-9-7950x-tray) |
+| GPU | [INNO3D RTX 5060 Ti 16GB TWIN X2](https://hoanghapc.vn/vga-inno3d-rtx-5060-ti-16gb-twin-x2) |
+| Motherboard | [ASUS PRIME X870-P WIFI-CSM](https://hoanghapc.vn/mainboard-asus-prime-x870-p-wifi-csm) |
+| RAM | [CORSAIR VENGEANCE 64GB 6400MHz (2x32GB)](https://hoanghapc.vn/ram-ddr5-adata-xpg-lancer-rgb-64gb-6000mhz-black) |
+| CPU Cooler | [THERMALRIGHT Frost Commander 140](https://hoanghapc.vn/tan-nhiet-thermalright-frost-commander-140) |
+| Extra Fans | [4x THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) |
+| Case | [Segotep AXE5 ATX - 4FAN RGB WHITE](https://hoanghapc.vn/vo-case-segotep-axe5-atx-white) |
+| Primary SSD | [Kioxia Exceria Plus G3 2TB M.2 NVMe](https://hoanghapc.vn/o-cung-ssd-kioxia-exceria-plus-g3-2tb) |
+| Secondary SSD | [AORUS NVMe Gen4 SSD 2TB (Gp-Asm2Ne6200Tttd)](https://tinhocngoisao.com/products/o-cung-ssd-2tb-gigabyte-aorus-m-2-nvme-pcie-gen4-gp-asm2ne6200tttd) |
+| Power Supply | [Adata XPG Core Shift 850W Gold](https://hoanghapc.vn/nguon-adata-xpg-core-shift-850w-gold-white) |
+| Monitor | [XP pen Artist Pro 16 gen 2 (16 inch/ WQXGA 2560x1600 / 99% sRGB / 60Hz)](https://shopee.vn/Xppen-Artist-Pro-16-(Gen-2)-M%C3%A0n-h%C3%ACnh-hi%E1%BB%83n-th%E1%BB%8B-b%C3%BAt-16-inch-v%E1%BB%9Bi-16K-99-sRGB-Nhi%E1%BB%81u-l%E1%BB%9Bp-ho%C3%A0n-to%C3%A0n-i.906824023.23677791873) |
 
 ## Laptop MSI QL62 6QE :computer:
 
