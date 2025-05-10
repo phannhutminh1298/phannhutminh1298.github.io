@@ -11,7 +11,7 @@ comments: true
 draft: true
 ---
 
-## PC Build for 3D & gaming with Prices :computer:
+## PC Build for 3D & gaming :computer:
 
 | Component | Model |
 |:-----------|:-------|
@@ -20,8 +20,9 @@ draft: true
 | Motherboard | [ASUS PRIME X870-P WIFI-CSM](https://hoanghapc.vn/mainboard-asus-prime-x870-p-wifi-csm) |
 | RAM | [CORSAIR VENGEANCE 64GB 6400MHz (2x32GB)](https://hoanghapc.vn/ram-ddr5-adata-xpg-lancer-rgb-64gb-6000mhz-black) |
 | CPU Cooler | [THERMALRIGHT Frost Commander 140](https://hoanghapc.vn/tan-nhiet-thermalright-frost-commander-140) |
-| Extra Fans | [4x THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) |
-| Case | [Segotep AXE5 ATX - 4FAN RGB WHITE](https://hoanghapc.vn/vo-case-segotep-axe5-atx-white) |
+| PSU Shroud Case Fans | [2x ARCTIC P12 MAX BLACK](https://hoanghapc.vn/fan-arctic-p12-max-black) |
+| Rear Case Fan | [THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) |
+| Case | [Xigmatek DUO X 3F - 3FAN RGB](https://hoanghapc.vn/vo-case-xigmatek-duo-x-3f) |
 | Primary SSD | [Kioxia Exceria Plus G3 2TB M.2 NVMe](https://hoanghapc.vn/o-cung-ssd-kioxia-exceria-plus-g3-2tb) |
 | Secondary SSD | [AORUS NVMe Gen4 SSD 2TB (Gp-Asm2Ne6200Tttd)](https://tinhocngoisao.com/products/o-cung-ssd-2tb-gigabyte-aorus-m-2-nvme-pcie-gen4-gp-asm2ne6200tttd) |
 | Power Supply | [Adata XPG Core Shift 850W Gold](https://hoanghapc.vn/nguon-adata-xpg-core-shift-850w-gold-white) |
