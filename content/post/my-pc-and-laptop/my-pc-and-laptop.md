@@ -17,7 +17,7 @@ draft: true
 |:-----------|:-------|
 | CPU | [AMD Ryzen 9 7950X](https://hoanghapc.vn/cpu-amd-ryzen-9-7950x-tray) |
 | GPU | [INNO3D RTX 5060 Ti 16GB TWIN X2](https://hoanghapc.vn/vga-inno3d-rtx-5060-ti-16gb-twin-x2) |
-| Motherboard | [ASUS PRIME X870-P WIFI-CSM](https://hoanghapc.vn/mainboard-asus-prime-x870-p-wifi-csm) |
+| Motherboard | [Mainboard ASROCK X870 PRO RS WIFI](https://hoanghapc.vn/mainboard-asrock-x870-pro-rs-wifi) |
 | RAM | [CORSAIR VENGEANCE 64GB 6400MHz (2x32GB)](https://hoanghapc.vn/ram-ddr5-adata-xpg-lancer-rgb-64gb-6000mhz-black) |
 | CPU Cooler | [THERMALRIGHT Frost Commander 140](https://hoanghapc.vn/tan-nhiet-thermalright-frost-commander-140) |
 | PSU Shroud Case Fans | [2x ARCTIC P12 MAX BLACK](https://hoanghapc.vn/fan-arctic-p12-max-black) |
