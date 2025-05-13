@@ -1,5 +1,5 @@
 ---
-title: "Merge 2 Subtool to 1"
+title: "Gộp 2 Subtool thành 1"
 description: 
 date: 2025-05-13T06:51:01Z
 image: post/merge-2-subtool-to-1/merge-2-subtool-to-1.webp
@@ -11,7 +11,7 @@ hidden: false
 comments: true
 draft: false
 ---
-Ghi chú để phòng khi quên cách làm.
+Ghi chú để phòng khi quên cách làm. Đây là cách để gộp 2 hay nhiều subtool thành một subtool liền mạch duy nhất. Không phải gộp như việc merge down,... mà vẫn còn tách rời nhau ra được.
 
 ## Dynamesh
 
@@ -20,6 +20,10 @@ Cách này phụ thuộc vào mật độ lưới rất nhiều, 2 subtool góc 
 Subtool > xếp 2 subtool cần gộp liền kề nhau > chọn subtool bên trên > 'merge' >'merge down' > duplicate 1 lần để back up > bấm subtool mới vừa được gộp > Dynamesh (chỉnh resolution càng cao thì càng giữ được chi tiết) > Sau khi ưng ý unmask subtool (nếu có mask) > Hiện subtool back up (icon con mắt góc trên phải của subtool) > bấm subtool vừa Dynamesh > Project All > Smooth artifact/etc > Ưng ý thì tăng Subdiv lên > Project all tiếp > lặp lại... > Khi đã ưng thì ngừng.
 
 > Dùng để gọp các khối lớn không cần góc cạnh nhọn
+
+### Video tham khảo
+
+{{< youtube "o85aYSTu8K0" >}}
 
 ## Boolean
 
