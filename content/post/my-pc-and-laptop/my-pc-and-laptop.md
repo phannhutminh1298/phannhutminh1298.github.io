@@ -13,20 +13,28 @@ draft: true
 
 ## PC Build for 3D & gaming :computer:
 
-| Component | Model |
-|:-----------|:-------|
-| CPU | [AMD Ryzen 9 7950X](https://hoanghapc.vn/cpu-amd-ryzen-9-7950x-tray) |
-| GPU | [INNO3D RTX 5060 Ti 16GB TWIN X2](https://hoanghapc.vn/vga-inno3d-rtx-5060-ti-16gb-twin-x2) |
-| Motherboard | [Mainboard ASROCK X870 PRO RS WIFI](https://hoanghapc.vn/mainboard-asrock-x870-pro-rs-wifi) |
-| RAM | [CORSAIR VENGEANCE 64GB 6400MHz (2x32GB)](https://hoanghapc.vn/ram-ddr5-adata-xpg-lancer-rgb-64gb-6000mhz-black) |
-| CPU Cooler | [THERMALRIGHT Frost Commander 140](https://hoanghapc.vn/tan-nhiet-thermalright-frost-commander-140) |
-| PSU Shroud Case Fans | [2x ARCTIC P12 MAX BLACK](https://hoanghapc.vn/fan-arctic-p12-max-black) |
-| Rear Case Fan | [THERMALRIGHT TL-H12-X28 BLACK](https://hoanghapc.vn/fan-thermalright-tl-h12-x28-black) |
-| Case | [Xigmatek DUO X 3F - 3FAN RGB](https://hoanghapc.vn/vo-case-xigmatek-duo-x-3f) |
-| Primary SSD | [Kioxia Exceria Plus G3 2TB M.2 NVMe](https://hoanghapc.vn/o-cung-ssd-kioxia-exceria-plus-g3-2tb) |
-| Secondary SSD | [AORUS NVMe Gen4 SSD 2TB (Gp-Asm2Ne6200Tttd)](https://tinhocngoisao.com/products/o-cung-ssd-2tb-gigabyte-aorus-m-2-nvme-pcie-gen4-gp-asm2ne6200tttd) |
-| Power Supply | [Adata XPG Core Shift 850W Gold](https://hoanghapc.vn/nguon-adata-xpg-core-shift-850w-gold-white) |
-| Monitor | [XP pen Artist Pro 16 gen 2 (16 inch/ WQXGA 2560x1600 / 99% sRGB / 60Hz)](https://shopee.vn/Xppen-Artist-Pro-16-(Gen-2)-M%C3%A0n-h%C3%ACnh-hi%E1%BB%83n-th%E1%BB%8B-b%C3%BAt-16-inch-v%E1%BB%9Bi-16K-99-sRGB-Nhi%E1%BB%81u-l%E1%BB%9Bp-ho%C3%A0n-to%C3%A0n-i.906824023.23677791873) |
+| Category                | Component                                            | Specs/Notes                                  |
+|-------------------------|------------------------------------------------------|----------------------------------------------|
+| **CPU**                 | AMD Ryzen 9 7950X                                    | 16C/32T, 5.7GHz, 64MB L3 Cache               |
+| **Motherboard**         | MSI PRO B650-S WIFI                                  | ATX, PCIe 5.0 x16, 4x DDR5 slots             |
+| **RAM**                 | TEAMGROUP T-CREATE EXPERT DDR5 32GB (2x16GB) Kit     | 6000MHz, AMD EXPO (x2 kits = **64GB total**) |
+| **GPU**                 | INNO3D GeForce RTX 5060 Ti Twin X2                   | 16GB GDDR7, PCIe 5.0                         |
+| **Storage (Primary)**   | KIOXIA EXCERIA Plus G3 NVMe SSD 2TB                  | 5000MB/s read, 3900MB/s write                |
+| **Storage (Secondary)** | GIGABYTE AORUS NVMe Gen4 SSD 2TB (GP-ASM2NE6200TTTD) | 5000MB/s read, 3900MB/s write                |
+| **PSU**                 | ADATA XPG CORE SHIFT 850W                            | 80+ Gold, Full Modular                       |
+| **CPU Cooler**          | Thermalright Frost Commander 140                     | Dual Tower, 158mm height                     |
+| **Case**                | Segotep AXE5 ATX Mid Tower                           | White, 4x pre-installed RGB fans             |
+| **Case Fans**           | Xigmatek Starlink ARGB (3-pack)                      | 120mm PWM, added airflow                     |
+
+### Key Notes
+
+- **RAM:** 64GB total (2 kits of 2x16GB)  
+- **Fans:**
+  - 4x included RGB case fans  
+  - 3x Xigmatek ARGB fans added  
+- **Airflow:**  
+  - **Intake:** Front (3x) + PSU shroud (2x)  
+  - **Exhaust:** Top (1x) + Rear (1x)
 
 ## Laptop MSI QL62 6QE :computer:
 
