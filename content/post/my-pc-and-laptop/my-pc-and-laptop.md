@@ -20,11 +20,11 @@ draft: true
 | **RAM**                 | TEAMGROUP T-CREATE EXPERT DDR5 32GB (2x16GB) Kit     | 6000MHz, AMD EXPO (x2 kits = **64GB total**) |
 | **GPU**                 | INNO3D GeForce RTX 5060 Ti Twin X2                   | 16GB GDDR7, PCIe 5.0                         |
 | **Storage (Primary)**   | KIOXIA EXCERIA Plus G3 NVMe SSD 2TB                  | 5000MB/s read, 3900MB/s write                |
-| **Storage (Secondary)** | GIGABYTE AORUS NVMe Gen4 SSD 2TB (GP-ASM2NE6200TTTD) | 5000MB/s read, 3900MB/s write                |
+| **Storage (Secondary)** | GIGABYTE AORUS NVMe Gen4 SSD 2TB (GP-ASM2NE6200TTTD) | 5000MB/s read, 4400MB/s write                |
 | **PSU**                 | ADATA XPG CORE SHIFT 850W                            | 80+ Gold, Full Modular                       |
 | **CPU Cooler**          | Thermalright Frost Commander 140                     | Dual Tower, 158mm height                     |
 | **Case**                | Segotep AXE5 ATX Mid Tower                           | White, 4x pre-installed RGB fans             |
-| **Case Fans**           | Xigmatek Starlink ARGB (3-pack)                      | 120mm PWM, added airflow                     |
+| **Case Fans**           | Thermalright TL-S12-S X3 ARGB White (3-pack)         | 120mm PWM, added airflow                     |
 
 ### Key Notes
 
