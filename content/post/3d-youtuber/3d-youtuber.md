@@ -1,5 +1,5 @@
 ---
-title: "3d Youtuber"
+title: "3D Youtuber"
 description: "Một vài kênh youtube về 3D Blender và Zbrush, cũng như một vài hướng dẫn"
 date: 2025-04-07T14:38:49Z
 lastmod: '2025-04-28T11:51:00+07:00'
