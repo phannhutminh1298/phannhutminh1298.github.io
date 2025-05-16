@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D Anime Figure on Phan Nhựt Minh</title><link>https://phannhutminh1298.github.io/categories/3d-anime-figure/</link><description>Recent content in 3D Anime Figure on Phan Nhựt Minh</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 May 2025 17:08:00 +0700</lastBuildDate><atom:link href="https://phannhutminh1298.github.io/categories/3d-anime-figure/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Samurai Helmet Girl Part 1</title><link>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</link><pubDate>Mon, 21 Apr 2025 04:44:49 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/cover-samurai-helmet-girl-new-project.webp" alt="Featured image of post Project Samurai Helmet Girl Part 1" />&lt;p>Hi, I&amp;rsquo;ll start a new 3d fanart project of Huke&amp;rsquo;s Illustration. I&amp;rsquo;ll keep updating this post until I finish the over all 3D model. I&amp;rsquo;m planning part 2 will be for render and part 3 will be cutting the model for 3D print.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/samurai-helmet-girl-by-huke.webp"
+loading="lazy"
+alt="Original Art by Huke"
+>&lt;/p>
+&lt;h2 id="body-basemesh">Body Basemesh
+&lt;/h2>&lt;p>Using an already made basemesh from my old project with some modifications. Since her arms is mechanical and bigger than average human arm so I&amp;rsquo;ll leave the basemesh as it is.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh.webp"
+loading="lazy"
+alt="front"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_side.webp"
+loading="lazy"
+alt="side"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_rear.webp"
+loading="lazy"
+alt="rear"
+>&lt;/p>
+&lt;h2 id="head-details">Head Details
+&lt;/h2>&lt;p>The head part is really hard when combine with making eyeglasses and helmet. This is as best as I can make to resemble the original artwork.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/05052025.webp"
+loading="lazy"
+alt="05/05/2925"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>To make the eyeglasses&amp;rsquo;s lens transparent I have to change it matterial to Glass then go to Display Properties and BPR Settings then lower Visibility slider. After that click BPR render in Render.&lt;/p>&lt;/blockquote>
+&lt;h2 id="clothing">Clothing
+&lt;/h2>&lt;p>(in progress&amp;hellip;)&lt;/p></description></item></channel></rss>
