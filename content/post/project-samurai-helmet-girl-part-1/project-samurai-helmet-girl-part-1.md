@@ -39,11 +39,9 @@ The head part is really hard when combine with making eyeglasses and helmet. Thi
 
 She barely wear anything at all, so the challenge part is armors, which is really hard (for me). Since trying to match armors with the reference is impossible. I just can't nail it, because it will ruin the all my efforts that I put in posing earlier. Here are some quick update.
 
-{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/04062025_0.webp" alt="front view" caption="Front view.">}}
+{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/04062025_0.webp" alt="front view" caption="Front view">}}
 
-![front view](post/project-samurai-helmet-girl-part-1/04062025_0.webp)
-
-![close up front view](post/project-samurai-helmet-girl-part-1/04062025_1.webp)
+{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/04062025_1.webp" alt="close up front view" caption="Close up front view">}}
 
 I'll try to finish all the armor parts before going back to hair and clothes.
 
