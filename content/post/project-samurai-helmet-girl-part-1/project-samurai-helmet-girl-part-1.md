@@ -2,7 +2,7 @@
 title: "Project Samurai Helmet Girl Part 1"
 description: 3D fanart of Huke's Illustration
 date: 2025-04-21T04:44:49Z
-lastmod: '2025-05-05T17:08:00+07:00'
+lastmod: '2025-06-04T23:50:00+07:00'
 image: post/project-samurai-helmet-girl-part-1/cover-samurai-helmet-girl-new-project.webp
 categories: 3D Anime Figure
 tags: [zbrush, Project]
@@ -35,4 +35,16 @@ The head part is really hard when combine with making eyeglasses and helmet. Thi
 
 ## Clothing
 
-(in progress...)
+### 04-06-2025
+
+She barely wear anything at all, so the challenge part is armors, which is really hard (for me). Since trying to match armors with the reference is impossible. I just can't nail it, because it will ruin the all my efforts that I put in posing earlier. Here are some quick update.
+
+{{< imagecenter url="post/project-samurai-helmet-girl-part-1/04062025_0.webp" alt="front view" caption="Front view.">}}
+
+![front view](post/project-samurai-helmet-girl-part-1/04062025_0.webp)
+
+![close up front view](post/project-samurai-helmet-girl-part-1/04062025_1.webp)
+
+I'll try to finish all the armor parts before going back to hair and clothes.
+
+(In progess...)
