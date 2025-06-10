@@ -26,16 +26,6 @@ draft: true
 | **Case**                | Jonsbo D400                                                         | Black                                         |
 | **Case Fans**           | Thermalright TL-P12                                                 | 120mm PWM, added airflow, total 8 fans        |
 
-### Key Notes
-
-- **RAM:** 64GB total (2 kits of 2x16GB)  
-- **Fans:**
-  - 4x included RGB case fans  
-  - 3x Xigmatek ARGB fans added  
-- **Airflow:**  
-  - **Intake:** Front (3x) + PSU shroud (2x)  
-  - **Exhaust:** Top (1x) + Rear (1x)
-
 ## Laptop MSI QL62 6QE :computer:
 
 | Component | Model |
