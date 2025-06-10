@@ -16,7 +16,7 @@ draft: true
 | Category                | Component                                                           | Specs/Notes                                   |
 |-------------------------|---------------------------------------------------------------------|-----------------------------------------------|
 | **CPU**                 | AMD Ryzen 9 9900X                                                   | 12C/24T, 4.4 to 5.6GHz, 64MB L3 Cache         |
-| **Motherboard**         | Gigabyte X870 EAGLE WIFI7                                           | ATX, PCIe 5.0 x16,                            |
+| **Motherboard**         | Gigabyte X870 EAGLE WIFI7                                           | ATX, PCIe 5.0 x16                             |
 | **RAM**                 | TEAMGROUP T-CREATE EXPERT DDR5 32GB (2x16GB) Kit                    | 6400MHz, AMD EXPO (x2 kits = **64GB total**)  |
 | **GPU**                 | ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC (ZT-B50620H-10M) | 16GB GDDR7, PCIe 5.0                          |
 | **Storage (Primary)**   | WD BLACK SN770 2TB M2 PCIe NVMe Gen 4×4 (WDS200T3X0E)               | 5150MB/s read, 4850MB/s write                 |
