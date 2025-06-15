@@ -12,6 +12,8 @@ hidden: false
 comments: true
 draft: false
 ---
+Các thứ hữu ích mà tôi tìm được.
+
 ## Blender
 
 - [RideBlenderl3d studio](https://www.youtube.com/@TutupBotol3d).
@@ -37,3 +39,9 @@ Dùng cho việc làm chainmail,hoạ tiết vải vóc, hard surface detail,...
 ### Zbrush Nanomesh rotation
 
 {{< youtube "ekdaY2hG_LM" >}}
+
+## Workflow
+
+Quy trình làm figure từ 3d modeling đến ra thành phẩm.
+
+{{< bilibili BV1EiTNzUED5 >}}
