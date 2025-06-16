@@ -40,6 +40,10 @@ Dùng cho việc làm chainmail,hoạ tiết vải vóc, hard surface detail,...
 
 {{< youtube "ekdaY2hG_LM" >}}
 
+### Chàm chuôi cáng kiếm Nhật - Tsuka
+
+{{< youtube "hJKveEFCERc" >}}
+
 ## Workflow
 
 Quy trình làm figure từ 3d modeling đến ra thành phẩm.
