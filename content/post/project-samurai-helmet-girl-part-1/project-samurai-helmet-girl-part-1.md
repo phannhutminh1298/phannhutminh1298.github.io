@@ -50,6 +50,6 @@ I'll try to finish all the armor parts before going back to hair and clothes.
 Update progress on armor, I'll start working on the sword from now. And after that, I'll will add some metal surface details to all metal part. Then, I'll work on the hair and finish the base.
 Right now, my model has reach 60 mil polycount ~ 5gb ram used, which causing some lag when all subtools is onscreen, so I'll have to buy a PC to be able finish this model.
 
-{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/16062025_0.webp" alt"front view" caption"Front view - 16-06-2025 ">}}
+{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/16062025_0.webp" alt="front view" caption="Front view - 16-06-2025 ">}}
 
 (In progess...)
