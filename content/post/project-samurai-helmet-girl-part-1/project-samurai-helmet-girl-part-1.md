@@ -64,4 +64,9 @@ Continue working on hair. I realize that working on hair, after everything else 
 
 {{< imagecenter url="/post/project-samurai-helmet-girl-part-1/22062025_0.webp" alt="all view" caption="All view - 22-06-2025">}}
 
+#### 23-06-2025
+
+Still working on hair details.
+I accidently use the wrong ref image, which not showing the full armor leg like the first image of this post. Now I have to remake it again. Feel sad.
+
 (In progess...)
