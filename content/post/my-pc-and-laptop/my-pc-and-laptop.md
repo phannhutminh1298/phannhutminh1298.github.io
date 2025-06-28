@@ -31,7 +31,7 @@ draft: flase
 
 | Component                                                               | Specs/Notes                                                                                                         |
 |-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Artist Pro 16 (Gen 2)**                                               | 16", WQXGA 2560x1600, 20 ms, 60 Hz, 159% sRGB color gamut area ratio, 99% sRGB color gamut coverage ratio, △E ＜2.2 |
+| **Artist Pro 16 (Gen 2)**                                               | 16", WQXGA 2560x1600, 20ms, 60 Hz, 159% sRGB color gamut area ratio, 99% sRGB color gamut coverage ratio, △E ＜2.2 |
 | **MSI MAG 275QF**                                                       | 27", WQHD 2560x1440, 0.5ms, 180 Hz, Rapid IPS, 10 bits (8 bits + FRC), DCI-P3 78%, Adobe RGB 82%, sRGB 101%         |
 
 ## Laptop MSI QL62 6QE :computer:
