@@ -2,7 +2,7 @@
 title: "Project Samurai Helmet Girl Part 1"
 description: 3D fanart of Huke's Illustration
 date: 2025-04-21T04:44:49Z
-lastmod: '2025-06-22T13:06:00+07:00'
+lastmod: '2025-06-27T13:00:00+07:00'
 image: post/project-samurai-helmet-girl-part-1/cover-samurai-helmet-girl-new-project.webp
 categories: 3D Anime Figure
 tags: [zbrush, Project]
@@ -68,5 +68,11 @@ Continue working on hair. I realize that working on hair, after everything else 
 
 Still working on hair details.
 I accidently use the wrong ref image, which not showing the full armor leg like the first image of this post. Now I have to remake it again. Feel sad.
+
+#### 27-06-2025
+
+I fixed the leg armor, finished the hair, and added colors to the other armor parts. The sword needs to be big like that in order to match the image. Now I’ve just started making the creature that looks like a helmet with long spider legs, and I’m working on the base. After that, I can say Part 1 is finished. The new PC I got really does the job—even in high subdivision, everything still runs smoothly, unlike my old laptop.
+
+{{< imagecenter url="/post/project-samurai-helmet-girl-part-1/27062025_0.webp" alt="front view" caption="front view - 27-06-2025">}}
 
 (In progess...)
