@@ -4,7 +4,7 @@ description: "For 3D modeling and gaming"
 date: 2025-05-07T13:18:37Z
 lastmod: '2025-06-25T18:00:00+07:00'
 image: 
-categories: PC & Laptop
+categories: Hardware
 math: 
 license: 
 hidden: false

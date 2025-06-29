@@ -156,7 +156,7 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 * 3D Anime Figure. #3561eb
 * 3D Render. #9736ec
 * Garage Kit. #ce2172
-* #ce3122
+* Hardware #ce3122
 * #ab5614
 * #1f7f08
 * #287979
