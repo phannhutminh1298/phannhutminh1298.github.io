@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Phan Nhựt Minh</title><link>https://phannhutminh1298.github.io/</link><description>Recent content on Phan Nhựt Minh</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 29 Jun 2025 21:43:00 +0700</lastBuildDate><atom:link href="https://phannhutminh1298.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Cắt subtool bằng LiveBoolean</title><link>https://phannhutminh1298.github.io/p/c%E1%BA%AFt-subtool-b%E1%BA%B1ng-liveboolean/</link><pubDate>Tue, 03 Jun 2025 12:24:02 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/c%E1%BA%AFt-subtool-b%E1%BA%B1ng-liveboolean/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/cut-subtool-with-live-boolean/cover-cut-subtool-with-live-boolean.webp" alt="Featured image of post Cắt subtool bằng LiveBoolean" />&lt;h2 id="tóm-tắt">Tóm tắt
+&lt;/h2>&lt;p>Để sử dụng LiveBoolean để cắt một subtool thì:&lt;/p>
+&lt;ul>
+&lt;li>Để subtool cần cắt (gọi là &lt;code>Target&lt;/code>) nằm trên subtool dùng để cắt (gọi là &lt;code>Cutter&lt;/code> ). Theo tứ tự từ trên xuống: &lt;code>Target&lt;/code>, &lt;code>Cutter&lt;/code>.&lt;/li>
+&lt;li>Chỉ hiện 2 subtool này (icon con mắt bên phải hai subtool).&lt;/li>
+&lt;li>Bấm icon ngoài cùng bên trái của subtool &lt;code>Target&lt;/code> &amp;gt; Icon sẽ thêm chữ &lt;code>Start&lt;/code>.&lt;/li>
+&lt;li>Chuyển qua suntool &lt;code>cutter&lt;/code>, bấm icon thứ 3 từ trái sang của subtool Cutter.&lt;/li>
+&lt;li>Bật &lt;code>LiveBoolean&lt;/code> (Menu top&amp;gt; Render &amp;gt; Render Booleans &amp;gt; bấm LiveBoolean).&lt;/li>
+&lt;li>&lt;code>Cutter&lt;/code> giờ sẽ tàn hình &amp;gt; di chuyển cutter sao cho vừa ý.&lt;/li>
+&lt;li>Qua danh sách subtools, kéo xuống kiếm &lt;code>Boolean&lt;/code>, bấm vào sẽ hiện ra &lt;code>Make Boolean Mesh&lt;/code>, rồi bấm vào.&lt;/li>
+&lt;li>Một Tool mới sẽ được tạo ra với tên có &lt;code>UMesh...&lt;/code>&lt;/li>
+&lt;li>Chỉ cần kéo xuống từ menu subtool &amp;gt; Bấm &lt;code>Append&lt;/code> &amp;gt; Chọn tool có tên &lt;code>Umesh...&lt;/code> &amp;gt; là xong, &lt;code>Target&lt;/code> sau khi bị cắt đã được thêm vào lại.&lt;/li>
+&lt;/ul>
+&lt;h2 id="youtube-guide">Youtube guide
+&lt;/h2>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/IbGBL1grZ7A"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Gộp 2 Subtool thành 1</title><link>https://phannhutminh1298.github.io/p/g%E1%BB%99p-2-subtool-th%C3%A0nh-1/</link><pubDate>Tue, 13 May 2025 06:51:01 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/g%E1%BB%99p-2-subtool-th%C3%A0nh-1/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/merge-2-subtool-to-1/merge-2-subtool-to-1.webp" alt="Featured image of post Gộp 2 Subtool thành 1" />&lt;p>Ghi chú để phòng khi quên cách làm. Đây là cách để gộp 2 hay nhiều subtool thành một subtool liền mạch duy nhất. Không phải gộp như việc merge down,&amp;hellip; mà vẫn còn tách rời nhau ra được.&lt;/p>
+&lt;h2 id="dynamesh">Dynamesh
+&lt;/h2>&lt;p>Cách này phụ thuộc vào mật độ lưới rất nhiều, 2 subtool góc càng dày lưới thì càng tốt.&lt;/p>
+&lt;p>Subtool &amp;gt; xếp 2 subtool cần gộp liền kề nhau &amp;gt; chọn subtool bên trên &amp;gt; &amp;lsquo;merge&amp;rsquo; &amp;gt;&amp;lsquo;merge down&amp;rsquo; &amp;gt; duplicate 1 lần để back up &amp;gt; bấm subtool mới vừa được gộp &amp;gt; Dynamesh (chỉnh resolution càng cao thì càng giữ được chi tiết) &amp;gt; Sau khi ưng ý unmask subtool (nếu có mask) &amp;gt; Hiện subtool back up (icon con mắt góc trên phải của subtool) &amp;gt; bấm subtool vừa Dynamesh &amp;gt; Project All &amp;gt; Smooth artifact/etc &amp;gt; Ưng ý thì tăng Subdiv lên &amp;gt; Project all tiếp &amp;gt; lặp lại&amp;hellip; &amp;gt; Khi đã ưng thì ngừng.&lt;/p>
+&lt;blockquote>
+&lt;p>Dùng để gọp các khối lớn không cần góc cạnh nhọn&lt;/p>&lt;/blockquote>
+&lt;h3 id="video-tham-khảo">Video tham khảo
+&lt;/h3>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/o85aYSTu8K0"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="boolean">Boolean
+&lt;/h2>&lt;p>Như trên cũng cần lưới cao nhưng tuỳ trường hợp, cũng phải &amp;gt; ZRemesh &amp;gt; project all &amp;gt; smooth &amp;gt; lặp lại&amp;hellip;&lt;/p>
+&lt;p>Chuẩn bị một Folder chứa 2 subtool &amp;gt; xuống subtool thứ 2 từ trên xuống &amp;gt; bấm icon 2 vòng tròn giao nhau góc trên bên tái subtool, đứng thứ 2 từ trái qua &amp;gt; Bấm Live Boolean &amp;gt; Lên subtool trên cũng bấm &amp;ldquo;live boolean&amp;rdquo; &amp;gt; bấm icon bánh răng chọn:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;Boolean Folder&amp;rdquo; &amp;gt; Subtool mới được tạo ra từ 2 subtool cũ.&lt;/li>
+&lt;li>&amp;ldquo;Boolean with DynamicSubDivision &amp;gt; Subtool mới được tạo ra từ 2 subtool cũ nhưng sẽ đi kèm với DynamicSubDivision &amp;gt; lưới dày hơn smooth hơn/bù lại nặng hơn là load lâu hơn.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Lưu ý:&lt;/strong> Boolean with DynamicSubDivision sẽ cho ra kết quả &lt;strong>REVIEW TRƯỚC CỦA LƯỚI DÀY&lt;/strong> &amp;gt; Để có lưới dày thực vào Geometry &amp;gt; tắt Dynamic đi &amp;gt; Ctrl + D cho đến khi vừa ý.&lt;/p>
+&lt;blockquote>
+&lt;p>Dùng để gọp những thứ cần độ chính xác cao hơn.&lt;/p>&lt;/blockquote></description></item><item><title>My PC and Laptop</title><link>https://phannhutminh1298.github.io/p/my-pc-and-laptop/</link><pubDate>Wed, 07 May 2025 13:18:37 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/my-pc-and-laptop/</guid><description>&lt;h2 id="pc-build-for-3d--gaming-computer">PC Build for 3D &amp;amp; gaming &amp;#x1f4bb;
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Category&lt;/th>
+&lt;th>Component&lt;/th>
+&lt;th>Specs/Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>CPU&lt;/strong>&lt;/td>
+&lt;td>AMD Ryzen 9 9900X&lt;/td>
+&lt;td>12C/24T, 4.4 to 5.6GHz, 64MB L3 Cache&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Motherboard&lt;/strong>&lt;/td>
+&lt;td>Gigabyte X870 EAGLE WIFI7&lt;/td>
+&lt;td>ATX, PCIe 5.0 x16&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>RAM&lt;/strong>&lt;/td>
+&lt;td>KINGSTON FURY Beast DDR5 32GB (KF560C36BBE-32)&lt;/td>
+&lt;td>6000MHz, AMD EXPO (x2 sticks = &lt;strong>64GB total&lt;/strong>)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>GPU&lt;/strong>&lt;/td>
+&lt;td>ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC (ZT-B50620H-10M)&lt;/td>
+&lt;td>16GB GDDR7, PCIe 5.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Storage (Primary)&lt;/strong>&lt;/td>
+&lt;td>KIOXIA EXCERIA PLUS G3 2TB M2 PCIe NVMe Gen 4×4&lt;/td>
+&lt;td>5000MB/s read, 3900MB/s write&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Storage (Secondary)&lt;/strong>&lt;/td>
+&lt;td>GIGABYTE AORUS NVMe Gen4 SSD 2TB (GP-ASM2NE6200TTTD)&lt;/td>
+&lt;td>5000MB/s read, 4400MB/s write&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>PSU&lt;/strong>&lt;/td>
+&lt;td>SuperFlower LEADEX III GOLD UP ATX 3.1 850W Black (SF-850F14GE(GL))&lt;/td>
+&lt;td>80+ Plus Gold, Black, Full Modular, 135mm fan&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>CPU Cooler&lt;/strong>&lt;/td>
+&lt;td>Thermalright Phantom Spirit 120 SE&lt;/td>
+&lt;td>Dual Tower&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Case&lt;/strong>&lt;/td>
+&lt;td>Jonsbo D400&lt;/td>
+&lt;td>Black&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Case Fans&lt;/strong>&lt;/td>
+&lt;td>Thermalright TL-C12C X3&lt;/td>
+&lt;td>120mm PWM, 9 fans total&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="monitors">Monitors
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Component&lt;/th>
+&lt;th>Specs/Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Artist Pro 16 (Gen 2)&lt;/strong>&lt;/td>
+&lt;td>16&amp;quot;, WQXGA 2560x1600, 20ms, 60 Hz, 159% sRGB color gamut area ratio, 99% sRGB color gamut coverage ratio, △E ＜2.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>MSI MAG 275QF&lt;/strong>&lt;/td>
+&lt;td>27&amp;quot;, WQHD 2560x1440, 0.5ms, 180 Hz, Rapid IPS, 10 bits (8 bits + FRC), DCI-P3 78%, Adobe RGB 82%, sRGB 101%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="laptop-msi-ql62-6qe-computer">Laptop MSI QL62 6QE &amp;#x1f4bb;
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Component&lt;/th>
+&lt;th>Model&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Processor&lt;/td>
+&lt;td>Intel Core i7-6700HQ (2.6GHz base, up to 3.5GHz turbo, 4 cores/8 threads)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>GPU&lt;/td>
+&lt;td>NVIDIA GeForce GTX 950M with 2GB GDDR5 VRAM&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>RAM&lt;/td>
+&lt;td>32GB (2x16GB) Crucial DDR4-2400MHz (upgraded)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Display&lt;/td>
+&lt;td>15.6&amp;quot; Full HD (1920x1080) Anti-Glare IPS Panel (replaced due to broken)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SSD&lt;/td>
+&lt;td>Plextor PX-256M8VG 256GB M.2 PCIe NVMe SSD&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>HDD&lt;/td>
+&lt;td>HGST Travelstar 7K1000 (HTS721010A9E630) 1TB 7200RPM&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>It seem this old laptop is limit hit when model reach total poly count of 60 Millions on Zbrush 😅.&lt;/p>&lt;/blockquote></description></item><item><title>About</title><link>https://phannhutminh1298.github.io/about/</link><pubDate>Mon, 21 Apr 2025 16:11:51 +0000</pubDate><guid>https://phannhutminh1298.github.io/about/</guid><description>&lt;h2 id="lời-chào">Lời chào
+&lt;/h2>&lt;p>Xin chào, mình là Phan Nhựt Minh, chào mừng bạn đã đến với trang web của mình. Đây là nơi mình đăng tải những thứ liên quan tới 3D mà mình đang theo học. Chủ yếu bạn sẽ thấy mình làm mô hình 3d của Anime Figure là chính. Mình chỉ mới bắt đầu học 3D nên những mô hình mình làm sẽ còn nhiều hạn chế, rất mong được sự ủng hộ, phê bình từ phía mọi người để giúp mình hoàn thiện hơn trong những dự án tiếp theo. 😊&lt;/p>
+&lt;blockquote>
+&lt;p>Bạn có thể liên hệ mình qua phần bình luận dưới các bài đăng hoặc các trang mạng xã hội mình đã ghim dưới avatar góc trên bên trái.&lt;/p>&lt;/blockquote></description></item><item><title>Project Samurai Helmet Girl Part 1</title><link>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</link><pubDate>Mon, 21 Apr 2025 04:44:49 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/cover-samurai-helmet-girl-new-project.webp" alt="Featured image of post Project Samurai Helmet Girl Part 1" />&lt;p>Hi, I&amp;rsquo;ll start a new 3d fanart project of Huke&amp;rsquo;s Illustration. I&amp;rsquo;ll keep updating this post until I finish the over all 3D model. I&amp;rsquo;m planning part 2 will be for render and part 3 will be cutting the model for 3D print.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/samurai-helmet-girl-by-huke.webp"
+loading="lazy"
+alt="Original Art by Huke"
+>&lt;/p>
+&lt;h2 id="body-basemesh">Body Basemesh
+&lt;/h2>&lt;p>Using an already made basemesh from my old project with some modifications. Since her arms is mechanical and bigger than average human arm so I&amp;rsquo;ll leave the basemesh as it is.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh.webp"
+loading="lazy"
+alt="front"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_side.webp"
+loading="lazy"
+alt="side"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_rear.webp"
+loading="lazy"
+alt="rear"
+>&lt;/p>
+&lt;h2 id="head-details">Head Details
+&lt;/h2>&lt;p>The head part is really hard when combine with making eyeglasses and helmet. This is as best as I can make to resemble the original artwork.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/05052025.webp"
+loading="lazy"
+alt="05/05/2925"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>To make the eyeglasses&amp;rsquo;s lens transparent I have to change it matterial to Glass then go to Display Properties and BPR Settings then lower Visibility slider. After that click BPR render in Render.&lt;/p>&lt;/blockquote>
+&lt;h2 id="clothing--accessories">Clothing &amp;amp; Accessories
+&lt;/h2>&lt;h3 id="04-06-2025">04-06-2025
+&lt;/h3>&lt;p>She barely wear anything at all, so the challenge part is armors, which is really hard (for me). Since trying to match armors with the reference is impossible. I just can&amp;rsquo;t nail it, because it will ruin the all my efforts that I put in posing earlier. Here are some quick update.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/04062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>Front view - 04-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/04062025_1.webp" loading="lazy" alt="close up front view">
+&lt;figcaption>Close up front view - 04-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;p>I&amp;rsquo;ll try to finish all the armor parts before going back to the hair and clothes. And every time I update this post, I&amp;rsquo;ll add the day as well.&lt;/p>
+&lt;h3 id="16-06-2025">16-06-2025
+&lt;/h3>&lt;p>Update progress on armor, I&amp;rsquo;ll start working on the sword from now. And after that, I&amp;rsquo;ll will add some metal surface details to all metal part. Then, I&amp;rsquo;ll work on the hair and finish the base.
+Right now, my model has reach 60 mil polycount ~ 5gb ram used, which causing some lag when all subtools is onscreen, so I&amp;rsquo;ll have to buy a PC to be able finish this model.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/16062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>Front view - 16-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="refine-hair-armor-weapon-clothes">Refine (Hair, Armor, Weapon, Clothes,&amp;hellip;)
+&lt;/h2>&lt;p>I&amp;rsquo;ll refine every things, including things I make but haven&amp;rsquo;t post any image here. After everything is done, I&amp;rsquo;ll start to make the base.
+Her sword is massive, it&amp;rsquo;s length is twice the height of her. I&amp;rsquo;m not sure about whether I&amp;rsquo;ll try to keep it that way to match the original artwork. That why I haven&amp;rsquo;t upload any full size image of it.&lt;/p>
+&lt;h3 id="22-06-2025">22-06-2025
+&lt;/h3>&lt;p>Continue working on hair. I realize that working on hair, after everything else is done easier, I can ensure hair position, no overlap other parts.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/22062025_0.webp" loading="lazy" alt="all view">
+&lt;figcaption>All view - 22-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="23-06-2025">23-06-2025
+&lt;/h3>&lt;p>Still working on hair details.
+I accidently use the wrong ref image, which not showing the full armor leg like the first image of this post. Now I have to remake it again. Feel sad.&lt;/p>
+&lt;h3 id="27-06-2025">27-06-2025
+&lt;/h3>&lt;p>I fixed the leg armor, finished the hair, and added colors to the other armor parts. The sword needs to be big like that in order to match the image. Now I’ve just started making the creature that looks like a helmet with long spider legs, and I’m working on the base. After that, I can say Part 1 is finished. The new PC I got really does the job—even in high subdivision, everything still runs smoothly, unlike my old laptop.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/27062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>front view - 27-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="spider">Spider
+&lt;/h2>&lt;h3 id="29-06-2025">29-06-2025
+&lt;/h3>&lt;p>Long-legged spider? Anyway, this is the current state of it. I&amp;rsquo;ll move on to base-making.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/29062025_spider.webp" loading="lazy" alt="long legged spider">
+&lt;figcaption>Long legged spider - 29-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;p>(In progess&amp;hellip;)&lt;/p></description></item><item><title>Cách làm dây ốp trong Zbrush</title><link>https://phannhutminh1298.github.io/p/c%C3%A1ch-l%C3%A0m-d%C3%A2y-%E1%BB%91p-trong-zbrush/</link><pubDate>Tue, 15 Apr 2025 14:49:51 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/c%C3%A1ch-l%C3%A0m-d%C3%A2y-%E1%BB%91p-trong-zbrush/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/make-straps-lines-zbrush/cover-lam-day-op-trong-zbrush.webp" alt="Featured image of post Cách làm dây ốp trong Zbrush" />&lt;p>Ghi chú để phòng khi quên cách làm.
+Khi làm quần áo nhiều khi sẽ cần các bộ phận lồi ra. Ví dụ như các lằn vải,&amp;hellip; Để làm chúng thì có nhiều cách.&lt;/p>
+&lt;h2 id="sử-dụng-mask-rồi-extract">Sử dụng Mask rồi Extract
+&lt;/h2>&lt;p>Dùng cọ Mask vùng cần thiết (có thể mask bằng Polygroup/Color cho tiết kiệm thời gian) &amp;gt; Bấm &amp;lsquo;Tool&amp;rsquo; trong menu top &amp;gt; Bấm &amp;lsquo;SubTool&amp;rsquo; &amp;gt; Bấm Extract &amp;gt; Điều chỉnh để có được mức mong muốn &amp;gt; Bấm &amp;lsquo;Extract&amp;rsquo; &amp;gt; Phần được Mask sẽ được tạo một mesh lồi ra &amp;gt; Nếu ứng ý bấm &amp;lsquo;Accept&amp;rsquo; trong menu &amp;lsquo;Extract&amp;rsquo;.&lt;/p>
+&lt;h3 id="ưu--nhược">Ưu &amp;amp; nhược
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: center">Ưu&lt;/th>
+&lt;th style="text-align: center">Nhược&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: center">Đơn giản&lt;/td>
+&lt;td style="text-align: center">Phần Extract ra khá xấu cần điều chỉnh lại&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: center">Kiểm soát được độ dày của mesh được extract&lt;/td>
+&lt;td style="text-align: center">Dễ xuất hiện Artifact do mask, và lưới siêu dày đặc khó đảm bảo kết cấu&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sử-dụng-masklasso">Sử dụng MaskLasso
+&lt;/h2>&lt;p>Lưới phải đẹp khi xài cách này và yêu cầu vật thể hơi hard surface một tý và phải có mật độ lưới dày, cộng không bị biến dạng quá.
+Bấm &amp;lsquo;B&amp;rsquo; &amp;gt; Bấm &amp;lsquo;MaskLasso&amp;rsquo; &amp;gt; Bật lưới subtool = bấm &amp;lsquo;Shift + F&amp;rsquo; &amp;gt; Zoom lên nếu cần &amp;gt; Giữ &amp;lsquo;Ctrl + Shift&amp;rsquo; click một &amp;rsquo;edge&amp;rsquo; &amp;gt; làm đúng thì nguyên 1 đường kể từ edge đó sẽ bị ẩn &amp;gt; đảo ngược ẩn = &amp;lsquo;Ctrl + Shift + quét một vùng bên ngoài&amp;rsquo; &amp;gt; &amp;lsquo;Mask&amp;rsquo; line hiện lên &amp;gt; Bấm &amp;lsquo;Ctrl + Shift&amp;rsquo; bên ngoài để show phần bị ẩn &amp;gt; từ menu top kiếm thanh trược &amp;lsquo;Inflate&amp;rsquo; kéo tăng/để làm lồi hoặc giảm/để tạo lằng kẻ &amp;gt; ưng ý thì &amp;gt; đảo ngược Mask = &amp;lsquo;Ctrl + Bấm ngoài nền&amp;rsquo; &amp;gt; đổi Brush &amp;lsquo;Pinch&amp;rsquo; đồ theo đường để làm khít &amp;gt; có thể chuyển tiếp qua brush &amp;lsquo;Inflate&amp;rsquo; để đồ tiếp cho nó hơi có tính vải.&lt;/p>
+&lt;h3 id="ưu--nhược-1">Ưu &amp;amp; nhược
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: center">Ưu&lt;/th>
+&lt;th style="text-align: center">Nhược&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: center">Thích hợp với vật thể có lưới quá dày + có hình dạng hơi hard surface&lt;/td>
+&lt;td style="text-align: center">muốn đẹp phải đồ cọ &amp;lsquo;Pinch&amp;rsquo; với &amp;lsquo;Inflate&amp;rsquo; nhiều&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="sử-dụng-brush-topology">Sử dụng brush Topology
+&lt;/h2>&lt;p>Bấm &amp;lsquo;B&amp;rsquo; &amp;gt; Bấm &amp;lsquo;T&amp;rsquo; &amp;gt; Chọn brush có tên &amp;lsquo;Topo&amp;hellip;&amp;rsquo; &amp;gt; Vẽ theo kiểu lưới geometry trong zmodeler: các ô vuông &amp;gt; Vd: Để vẽ một cộng dây strap &amp;gt; đây là hình chữ nhật &amp;gt; Vẽ hai đường thẳng song song trên bề mặt của subtool (vd: quần áo) &amp;gt; vẽ tiếp các gạch ngang để chia thành các ô như lưới geometry &amp;gt; Khi đã ưng ý click ra ngoài lên subtool đang vẽ line &amp;gt; Nếu ưng ý với kết quả bấm &amp;lsquo;Split Unmasked&amp;hellip;&amp;rsquo;&lt;/p>
+&lt;blockquote>
+&lt;p>Lưu ý:&lt;/p>
+&lt;ol>
+&lt;li>Đảm bảo vật thể được vẽ strap lên không có subdivision &amp;gt; có thể tạm dupliacte vật thể có nhiều Subdivision rồi del lower/higher subdivision để dùng tạm.&lt;/li>
+&lt;li>Cỡ brush càng nhỏ thì càng tạo được nhiều ô nên strap tạo ra sẽ chi tiết hơn.&lt;/li>
+&lt;/ol>&lt;/blockquote>
+&lt;h3 id="ưu--nhược-2">Ưu &amp;amp; nhược
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: center">Ưu&lt;/th>
+&lt;th style="text-align: center">Nhược&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: center">Phần extact ra có lưới thấp dể kiểm soát hơn nên thành phẩm đẹp hơn&lt;/td>
+&lt;td style="text-align: center">Phải chỉnh lưới hơi nhiều&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="kẻ-thẳng-lên-để-tạo-lằng">Kẻ thẳng lên để tạo lằng
+&lt;/h2>&lt;h3 id="dùng-cọ-imm">Dùng cọ IMM
+&lt;/h3>&lt;p>Thường phải đi tải trên mạng về xài. Nhưng kết quả lại đẹp, thích hợp để đặt tả đường chỉ, khâu,&amp;hellip;&lt;/p>
+&lt;h3 id="dùng-cọ-có-sẵn">Dùng cọ có sẵn
+&lt;/h3>&lt;p>Thường là &amp;lsquo;DamStan&amp;hellip;&amp;rsquo; và &amp;lsquo;Standard&amp;rsquo;. Cần kéo thanh &amp;lsquo;LayzyRadius&amp;rsquo; ~ 20, kéo thanh RollDist một xíu lên, tăng/giảm size brush và ZIntensity = giữ &amp;lsquo;Space&amp;rsquo; để hiện menu điều chỉnh. Rồi vẽ lên vật thể.&lt;/p>
+&lt;h3 id="ưu--nhược-3">Ưu &amp;amp; nhược
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: center">Ưu&lt;/th>
+&lt;th style="text-align: center">Nhược&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: center">Ít điều chỉnh nhiều bước&lt;/td>
+&lt;td style="text-align: center">Nếu chỉ cần kể một line, dây ốp thì ok nhưng nếu phải tạo nhiều line/dây ốp cùng lúc (cùng kích cỡ) thì ko nên xài cách này&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Làm Custom Brush trong Zbrush</title><link>https://phannhutminh1298.github.io/p/l%C3%A0m-custom-brush-trong-zbrush/</link><pubDate>Mon, 14 Apr 2025 12:05:20 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/l%C3%A0m-custom-brush-trong-zbrush/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/make-custom-brush-in-zbrush/cover-lam-custom-brush-trong-zbrush.webp" alt="Featured image of post Làm Custom Brush trong Zbrush" />&lt;p>Ghi chú để phòng khi quên cách làm brush.&lt;/p>
+&lt;h2 id="imm-brush">IMM Brush
+&lt;/h2>&lt;p>Là những brush dùng để insert một mesh hay vật thể (ví dụ: đinh, óc, tóc,&amp;hellip;). Thông thường với những vật thể như đinh óc thì không cần curve mode để vẽ ra như tóc.&lt;/p>
+&lt;h3 id="đối-với-mấy-thứ-không-cần-curve-mode">Đối với mấy thứ không cần curve mode
+&lt;/h3>&lt;p>Tạo được xong subtool ưng ý &amp;gt; Đảm bảo có ít nhất từ 2 subtool trở lên &amp;gt; Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Create&amp;rsquo; &amp;gt; Bấm Create InsertMultiMesh&amp;rsquo;.
+Xong giờ chỉ việc lưu.&lt;/p>
+&lt;h3 id="với-những-thứ-cần-curve-mode">Với những thứ cần curve mode
+&lt;/h3>&lt;p>Sao khi tạo xong đảm bảo hướng của vật thể như hình.
+&lt;img src="https://phannhutminh1298.github.io/post/make-custom-brush-in-zbrush/lam-custom-brush-trong-zbrush-1.webp"
+loading="lazy"
+alt="Làm Custom Brush trong Zbrush"
+>
+Tạo được xong subtool ưng ý &amp;gt; Đảm bảo có ít nhất từ 2 subtool trở lên &amp;gt; Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Create&amp;rsquo; &amp;gt; Bấm Create InsertMultiMesh&amp;rsquo;.&lt;/p>
+&lt;blockquote>
+&lt;p>Tiến hành dùng thử brush. Hãy tạo một Polymesh3D của một đối tượng bất kỳ rồi vẽ lên đó.
+Đảm bảo &amp;lsquo;Z Intensity&amp;rsquo; của Brush vừa tạo là 100 và &amp;lsquo;Focal Shift&amp;rsquo; là 0 (Ấn &amp;lsquo;Space&amp;rsquo; &amp;gt; Kéo &amp;lsquo;Z Intensity&amp;rsquo; lên 100 và kéo &amp;lsquo;Focal Shift&amp;rsquo; về 0) để tránh tình trạng vẽ ra vật thể bị ép dẹp lép.
+Nhìn thanh menu trên top &amp;gt; Bấm &amp;lsquo;Stroke&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Curve&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Curve Mode&amp;rsquo; &amp;gt; Hạ &amp;lsquo;Curve Step&amp;rsquo; ~ 0.8, vì đối với các vật thể như dây xích nếu không hạ thì khi vẽ ra dây xích các mắc xích sẽ không luồn vào nhau. Đối với tóc thì không cần chỉnh &amp;lsquo;Curve Step&amp;rsquo;.
+Khi đã ứng ý thì tiếng hành lưu. Khi lưu tất cả cài đặt về &amp;lsquo;Curve&amp;rsquo; cũng sẽ được lưu lại. Lúc xài nếu cần chỉnh lại &amp;lsquo;Curve Step&amp;rsquo; có thể chỉnh thoải mái.&lt;/p>&lt;/blockquote>
+&lt;h2 id="cách-lưu-để-xài">Cách lưu để xài
+&lt;/h2>&lt;p>Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Save as&amp;rsquo; &amp;gt; Cửa sổ win dow hiện ra &amp;gt; Nhập tên cần lưu &amp;lsquo;IMM_something.ZBP&amp;rsquo; &amp;gt; Chọn nơi lưu &amp;lsquo;(C:\Program Files\Maxon ZBrush 2023\ZData\BrushPresets)&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Save&amp;rsquo;.&lt;/p>
+&lt;blockquote>
+&lt;p>Nếu muốn mỗi lần khởi động Zbrush mà brush tự load thì Save ở (C:\Program Files\Maxon ZBrush 2023\ZStartup\BrushPresets)&lt;/p>&lt;/blockquote>
+&lt;h2 id="nếu-mở-zbrush-lến-mà-không-thấy-brush-mình-lưu">Nếu mở ZBrush lến mà không thấy brush mình lưu?
+&lt;/h2>&lt;p>Bấm &amp;lsquo;b&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Load Brush&amp;rsquo; đi đến chỗ lưu file &amp;lsquo;.ZBP&amp;rsquo; &amp;gt; Chọn file cần mở &amp;gt; Xong.&lt;/p></description></item><item><title>3D Youtuber</title><link>https://phannhutminh1298.github.io/p/3d-youtuber/</link><pubDate>Mon, 07 Apr 2025 14:38:49 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/3d-youtuber/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/3d-youtuber/cover-3d-youtube.webp" alt="Featured image of post 3D Youtuber" />&lt;p>Các thứ hữu ích mà tôi tìm được.&lt;/p>
+&lt;h2 id="blender">Blender
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/@TutupBotol3d" target="_blank" rel="noopener"
+>RideBlenderl3d studio&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="zbrush">ZBrush
+&lt;/h2>&lt;h3 id="hard-surface">Hard Surface
+&lt;/h3>&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/user/kermaco" target="_blank" rel="noopener"
+>KERMACO&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="hướng-dẫn">Hướng dẫn
+&lt;/h2>&lt;h3 id="làm-biểu-tượng-bo-sát-bề-mặt-vật-thể-logo-quần-áo-bo-sát-cơ-thể-người">Làm biểu tượng bo sát bề mặt vật thể (logo quần áo bo sát cơ thể người).
+&lt;/h3>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/NnAOFg1Gtkg"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="tất-tần-tật-về-micropoly--nanomesh">Tất tần tật về Micropoly + NanoMesh
+&lt;/h3>&lt;p>Dùng cho việc làm chainmail,hoạ tiết vải vóc, hard surface detail,&amp;hellip;&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/ZVEnWMNIkss"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="zbrush-nanomesh-rotation">Zbrush Nanomesh rotation
+&lt;/h3>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/ekdaY2hG_LM"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="chàm-chuôi-cáng-kiếm-nhật---tsuka">Chàm chuôi cáng kiếm Nhật - Tsuka
+&lt;/h3>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/hJKveEFCERc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="workflow">Workflow
+&lt;/h2>&lt;p>Quy trình làm figure từ 3d modeling đến ra thành phẩm.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1EiTNzUED5"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Xin Chao</title><link>https://phannhutminh1298.github.io/p/xin-chao/</link><pubDate>Sat, 14 Dec 2024 13:45:28 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/xin-chao/</guid><description>&lt;p>Hello my name is Phan Nhựt Minh&lt;/p></description></item><item><title>Archives</title><link>https://phannhutminh1298.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://phannhutminh1298.github.io/archives/</guid><description/></item><item><title>Search</title><link>https://phannhutminh1298.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://phannhutminh1298.github.io/search/</guid><description/></item></channel></rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Phan Nhựt Minh</title><link>https://phannhutminh1298.github.io/tags/project/</link><description>Recent content in Project on Phan Nhựt Minh</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 29 Jun 2025 21:43:00 +0700</lastBuildDate><atom:link href="https://phannhutminh1298.github.io/tags/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Project Samurai Helmet Girl Part 1</title><link>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</link><pubDate>Mon, 21 Apr 2025 04:44:49 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/project-samurai-helmet-girl-part-1/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/cover-samurai-helmet-girl-new-project.webp" alt="Featured image of post Project Samurai Helmet Girl Part 1" />&lt;p>Hi, I&amp;rsquo;ll start a new 3d fanart project of Huke&amp;rsquo;s Illustration. I&amp;rsquo;ll keep updating this post until I finish the over all 3D model. I&amp;rsquo;m planning part 2 will be for render and part 3 will be cutting the model for 3D print.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/samurai-helmet-girl-by-huke.webp"
+loading="lazy"
+alt="Original Art by Huke"
+>&lt;/p>
+&lt;h2 id="body-basemesh">Body Basemesh
+&lt;/h2>&lt;p>Using an already made basemesh from my old project with some modifications. Since her arms is mechanical and bigger than average human arm so I&amp;rsquo;ll leave the basemesh as it is.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh.webp"
+loading="lazy"
+alt="front"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_side.webp"
+loading="lazy"
+alt="side"
+>&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/body_basemesh_rear.webp"
+loading="lazy"
+alt="rear"
+>&lt;/p>
+&lt;h2 id="head-details">Head Details
+&lt;/h2>&lt;p>The head part is really hard when combine with making eyeglasses and helmet. This is as best as I can make to resemble the original artwork.&lt;/p>
+&lt;p>&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/05052025.webp"
+loading="lazy"
+alt="05/05/2925"
+>&lt;/p>
+&lt;blockquote>
+&lt;p>To make the eyeglasses&amp;rsquo;s lens transparent I have to change it matterial to Glass then go to Display Properties and BPR Settings then lower Visibility slider. After that click BPR render in Render.&lt;/p>&lt;/blockquote>
+&lt;h2 id="clothing--accessories">Clothing &amp;amp; Accessories
+&lt;/h2>&lt;h3 id="04-06-2025">04-06-2025
+&lt;/h3>&lt;p>She barely wear anything at all, so the challenge part is armors, which is really hard (for me). Since trying to match armors with the reference is impossible. I just can&amp;rsquo;t nail it, because it will ruin the all my efforts that I put in posing earlier. Here are some quick update.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/04062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>Front view - 04-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/04062025_1.webp" loading="lazy" alt="close up front view">
+&lt;figcaption>Close up front view - 04-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;p>I&amp;rsquo;ll try to finish all the armor parts before going back to the hair and clothes. And every time I update this post, I&amp;rsquo;ll add the day as well.&lt;/p>
+&lt;h3 id="16-06-2025">16-06-2025
+&lt;/h3>&lt;p>Update progress on armor, I&amp;rsquo;ll start working on the sword from now. And after that, I&amp;rsquo;ll will add some metal surface details to all metal part. Then, I&amp;rsquo;ll work on the hair and finish the base.
+Right now, my model has reach 60 mil polycount ~ 5gb ram used, which causing some lag when all subtools is onscreen, so I&amp;rsquo;ll have to buy a PC to be able finish this model.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/16062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>Front view - 16-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="refine-hair-armor-weapon-clothes">Refine (Hair, Armor, Weapon, Clothes,&amp;hellip;)
+&lt;/h2>&lt;p>I&amp;rsquo;ll refine every things, including things I make but haven&amp;rsquo;t post any image here. After everything is done, I&amp;rsquo;ll start to make the base.
+Her sword is massive, it&amp;rsquo;s length is twice the height of her. I&amp;rsquo;m not sure about whether I&amp;rsquo;ll try to keep it that way to match the original artwork. That why I haven&amp;rsquo;t upload any full size image of it.&lt;/p>
+&lt;h3 id="22-06-2025">22-06-2025
+&lt;/h3>&lt;p>Continue working on hair. I realize that working on hair, after everything else is done easier, I can ensure hair position, no overlap other parts.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/22062025_0.webp" loading="lazy" alt="all view">
+&lt;figcaption>All view - 22-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="23-06-2025">23-06-2025
+&lt;/h3>&lt;p>Still working on hair details.
+I accidently use the wrong ref image, which not showing the full armor leg like the first image of this post. Now I have to remake it again. Feel sad.&lt;/p>
+&lt;h3 id="27-06-2025">27-06-2025
+&lt;/h3>&lt;p>I fixed the leg armor, finished the hair, and added colors to the other armor parts. The sword needs to be big like that in order to match the image. Now I’ve just started making the creature that looks like a helmet with long spider legs, and I’m working on the base. After that, I can say Part 1 is finished. The new PC I got really does the job—even in high subdivision, everything still runs smoothly, unlike my old laptop.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/27062025_0.webp" loading="lazy" alt="front view">
+&lt;figcaption>front view - 27-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;h2 id="spider">Spider
+&lt;/h2>&lt;h3 id="29-06-2025">29-06-2025
+&lt;/h3>&lt;p>Long-legged spider? Anyway, this is the current state of it. I&amp;rsquo;ll move on to base-making.&lt;/p>
+&lt;figure align="center">
+&lt;img src="https://phannhutminh1298.github.io/post/project-samurai-helmet-girl-part-1/29062025_spider.webp" loading="lazy" alt="long legged spider">
+&lt;figcaption>Long legged spider - 29-06-2025.&lt;/figcaption>
+&lt;/figure>
+&lt;p>(In progess&amp;hellip;)&lt;/p></description></item></channel></rss>
