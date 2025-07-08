@@ -10,7 +10,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 ---
 Các thứ hữu ích mà tôi tìm được.
 
