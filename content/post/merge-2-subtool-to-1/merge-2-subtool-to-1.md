@@ -4,7 +4,7 @@ description:
 date: 2025-05-13T06:51:01Z
 image: post/merge-2-subtool-to-1/merge-2-subtool-to-1.webp
 categories: 3D
-tags: [zbrush, Notes]
+tags: [ZBrush, Notes]
 math: 
 license: 
 hidden: false

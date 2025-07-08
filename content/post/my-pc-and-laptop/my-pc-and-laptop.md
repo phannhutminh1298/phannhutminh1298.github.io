@@ -45,4 +45,4 @@ draft: flase
 | SSD | Plextor PX-256M8VG 256GB M.2 PCIe NVMe SSD |
 | HDD | HGST Travelstar 7K1000 (HTS721010A9E630) 1TB 7200RPM |
 
-> It seem this old laptop is limit hit when model reach total poly count of 60 Millions on Zbrush 😅.
+> It seem this old laptop is limit hit when model reach total poly count of 60 Millions on ZBrush 😅.

@@ -1,10 +1,10 @@
 ---
-title: "Cách làm dây ốp trong Zbrush"
+title: "Cách làm dây ốp trong ZBrush"
 description: 
 date: 2025-04-15T14:49:51Z
 image: post/make-straps-lines-zbrush/cover-lam-day-op-trong-zbrush.webp
 categories: 3D
-tags: [zbrush, Notes]
+tags: [ZBrush, Notes]
 math: 
 license: 
 hidden: false

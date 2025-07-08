@@ -4,7 +4,7 @@ description:
 date: 2025-06-03T12:24:02Z
 image: post/cut-subtool-with-live-boolean/cover-cut-subtool-with-live-boolean.webp
 categories: 3D
-tags: [zbrush, Notes]
+tags: [ZBrush, Notes]
 math: 
 license: 
 hidden: false
