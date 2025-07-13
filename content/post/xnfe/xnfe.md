@@ -2,7 +2,7 @@
 title: "XNFE"
 description:  Fan art 3D model of XNFE from Black Rock Shooter The Game.
 date: 2025-07-08T12:00:00Z
-lastmod: '2025-07-12T13:40:00+07:00'
+lastmod: '2025-07-13T15:38:00+07:00'
 image: post/xnfe/cover-xnfe.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
@@ -39,6 +39,20 @@ She wear high heels with `x` strings in middle and one circle string above her a
 {{< imagecenter url="/post/xnfe/12072025_1.webp" alt="Heels" caption="Heels - 12-07-2025">}}
 
 This is the current stage of the heel. I'll will adding heel's strings latter.
+
+#### 13-07-2025
+
+I'll leave it like this and start making clothes.
+
+{{< imagecenter url="/post/xnfe/13072025_1.webp" alt="Heels" caption="Heels - 13-07-2025">}}
+
+## Clothes
+
+XNFE wear a blouse, plus hoodie and a mini skirt. She also wear sport bra and pink pantsu.
+
+### Hoodie
+
+(in progress...)
 
 ## 3D render in Toolbag 5
 
