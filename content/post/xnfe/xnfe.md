@@ -2,7 +2,7 @@
 title: "XNFE"
 description:  Fan art 3D model of XNFE from Black Rock Shooter The Game.
 date: 2025-07-08T12:00:00Z
-lastmod: '2025-07-13T15:38:00+07:00'
+lastmod: '2025-07-17T12:39:00+07:00'
 image: post/xnfe/cover-xnfe.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
@@ -26,7 +26,7 @@ I'll will use the old body basemesh with some adjustment.
 
 ### Face
 
-In this project, I'll experiment posing with open mouth for this character.
+In this project, I'll experiment posing with open mouth for this character. The eyes look weird since I haven't decided her pose and the direction of her eyes yet.
 
 {{< imagecenter url="/post/xnfe/09072025.webp" alt="Face" caption="Face - 09-07-2025">}}
 
@@ -50,7 +50,19 @@ I'll leave it like this and start making clothes.
 
 XNFE wear a blouse, plus hoodie and a mini skirt. She also wear sport bra and pink pantsu.
 
-### Hoodie
+### Hoodie + Rabbit Ears
+
+I'll refine this more after I done posing her.
+
+{{< imagecenter url="/post/xnfe/17072025.webp" alt="hoodie + rabbit ears" caption="Hoodie + Rabbit Ears - 17-07-2025">}}
+
+### Bra
+
+{{< imagecenter url="/post/xnfe/bra-in-game-reference.webp" alt="bra - in game reference" caption="Bra - in game reference">}}
+
+(in progress...)
+
+### Underwear
 
 (in progress...)
 
