@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardware on Phan Nhựt Minh</title><link>https://phannhutminh1298.github.io/categories/hardware/</link><description>Recent content in Hardware on Phan Nhựt Minh</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Jun 2025 18:00:00 +0700</lastBuildDate><atom:link href="https://phannhutminh1298.github.io/categories/hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>My PC and Laptop</title><link>https://phannhutminh1298.github.io/p/my-pc-and-laptop/</link><pubDate>Wed, 07 May 2025 13:18:37 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/my-pc-and-laptop/</guid><description>&lt;h2 id="pc-build-for-3d--gaming-computer">PC Build for 3D &amp;amp; gaming &amp;#x1f4bb;
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Category&lt;/th>
+&lt;th>Component&lt;/th>
+&lt;th>Specs/Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>CPU&lt;/strong>&lt;/td>
+&lt;td>AMD Ryzen 9 9900X&lt;/td>
+&lt;td>12C/24T, 4.4 to 5.6GHz, 64MB L3 Cache&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Motherboard&lt;/strong>&lt;/td>
+&lt;td>Gigabyte X870 EAGLE WIFI7&lt;/td>
+&lt;td>ATX, PCIe 5.0 x16&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>RAM&lt;/strong>&lt;/td>
+&lt;td>KINGSTON FURY Beast DDR5 32GB (KF560C36BBE-32)&lt;/td>
+&lt;td>6000MHz, AMD EXPO (x2 sticks = &lt;strong>64GB total&lt;/strong>)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>GPU&lt;/strong>&lt;/td>
+&lt;td>ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC (ZT-B50620H-10M)&lt;/td>
+&lt;td>16GB GDDR7, PCIe 5.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Storage (Primary)&lt;/strong>&lt;/td>
+&lt;td>KIOXIA EXCERIA PLUS G3 2TB M2 PCIe NVMe Gen 4×4&lt;/td>
+&lt;td>5000MB/s read, 3900MB/s write&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Storage (Secondary)&lt;/strong>&lt;/td>
+&lt;td>GIGABYTE AORUS NVMe Gen4 SSD 2TB (GP-ASM2NE6200TTTD)&lt;/td>
+&lt;td>5000MB/s read, 4400MB/s write&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>PSU&lt;/strong>&lt;/td>
+&lt;td>SuperFlower LEADEX III GOLD UP ATX 3.1 850W Black (SF-850F14GE(GL))&lt;/td>
+&lt;td>80+ Plus Gold, Black, Full Modular, 135mm fan&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>CPU Cooler&lt;/strong>&lt;/td>
+&lt;td>Thermalright Phantom Spirit 120 SE&lt;/td>
+&lt;td>Dual Tower&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Case&lt;/strong>&lt;/td>
+&lt;td>Jonsbo D400&lt;/td>
+&lt;td>Black&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Case Fans&lt;/strong>&lt;/td>
+&lt;td>Thermalright TL-C12C X3&lt;/td>
+&lt;td>120mm PWM, 9 fans total&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="monitors">Monitors
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Component&lt;/th>
+&lt;th>Specs/Notes&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Artist Pro 16 (Gen 2)&lt;/strong>&lt;/td>
+&lt;td>16&amp;quot;, WQXGA 2560x1600, 20ms, 60 Hz, 159% sRGB color gamut area ratio, 99% sRGB color gamut coverage ratio, △E ＜2.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>MSI MAG 275QF&lt;/strong>&lt;/td>
+&lt;td>27&amp;quot;, WQHD 2560x1440, 0.5ms, 180 Hz, Rapid IPS, 10 bits (8 bits + FRC), DCI-P3 78%, Adobe RGB 82%, sRGB 101%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="laptop-msi-ql62-6qe-computer">Laptop MSI QL62 6QE &amp;#x1f4bb;
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Component&lt;/th>
+&lt;th>Model&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Processor&lt;/td>
+&lt;td>Intel Core i7-6700HQ (2.6GHz base, up to 3.5GHz turbo, 4 cores/8 threads)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>GPU&lt;/td>
+&lt;td>NVIDIA GeForce GTX 950M with 2GB GDDR5 VRAM&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>RAM&lt;/td>
+&lt;td>32GB (2x16GB) Crucial DDR4-2400MHz (upgraded)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Display&lt;/td>
+&lt;td>15.6&amp;quot; Full HD (1920x1080) Anti-Glare IPS Panel (replaced due to broken)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SSD&lt;/td>
+&lt;td>Plextor PX-256M8VG 256GB M.2 PCIe NVMe SSD&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>HDD&lt;/td>
+&lt;td>HGST Travelstar 7K1000 (HTS721010A9E630) 1TB 7200RPM&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;blockquote>
+&lt;p>It seem this old laptop is limit hit when model reach total poly count of 60 Millions on ZBrush 😅.&lt;/p>&lt;/blockquote></description></item></channel></rss>
