@@ -2,7 +2,7 @@
 title: "XNFE"
 description:  Fan art 3D model of XNFE from Black Rock Shooter The Game.
 date: 2025-07-08T12:00:00Z
-lastmod: '2025-07-17T12:39:00+07:00'
+lastmod: '2025-07-19T01:08:00+07:00'
 image: post/xnfe/cover-xnfe.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
@@ -60,7 +60,9 @@ I'll refine this more after I done posing her.
 
 {{< imagecenter url="/post/xnfe/bra-in-game-reference.webp" alt="bra - in game reference" caption="Bra - in game reference">}}
 
-(in progress...)
+{{< imagecenter url="/post/xnfe/19072025_0.webp" alt="bra - 19-07-2025" caption="Bra - 19-07-2025">}}
+
+Most of her bra will be cover by her clothes so I won't try to refine to make the front and the back symmetry.
 
 ### Underwear
 
