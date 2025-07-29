@@ -64,9 +64,15 @@ I'll refine this more after I done posing her.
 
 Most of her bra will be cover by her clothes so I won't try to refine to make the front and the back symmetry.
 
-### Underwear
+### A pose - 29/07/2025
 
-(in progress...)
+After many days, I finally completed the A pose. Sorry, I'm too exhausted to updating everyday. 3D stuffs is no joke.
+
+Next I will start posing and making her flying Mini Rabbits.
+
+### Mini Rabbits
+
+### Posing
 
 ## 3D render in Toolbag 5
 
