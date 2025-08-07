@@ -2,7 +2,7 @@
 title: "XNFE"
 description:  Fan art 3D model of XNFE from Black Rock Shooter The Game.
 date: 2025-07-08T12:00:00Z
-lastmod: '2025-07-19T01:08:00+07:00'
+lastmod: '2025-08-07T21:50:00+07:00'
 image: post/xnfe/cover-xnfe.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
@@ -70,10 +70,46 @@ After many days, I finally completed the A pose. Sorry, I'm too exhausted to upd
 
 Next I will start posing and making her flying Mini Rabbits.
 
-### Mini Rabbits
+### Posing + Mini rabbits
 
-### Posing
+Since there is so much work and I kinda lazy so will share the result after I make the mini rabbits and posing her.
 
-## 3D render in Toolbag 5
+{{< imagecenter url="/post/xnfe/07082025_0.jpg" alt="pose - 07-08-2025" caption="Pose - 07-08-2025">}}
 
-(in progress...)
+Her hands are massive so I can't figure out how to pose her while not letting her hands block her face and still maintaining good structure so she won't break or fall when made into a real-life figure. So this is the pose I chose based on her pose from the game.
+
+## 3D Render in Marmoset Toolbag 5
+
+### Closeup
+
+{{< imagecenter url="/post/xnfe/07082025_1.jpg" alt="close up" caption="Close up - 07-08-2025">}}
+
+### Full body
+
+{{< imagecenter url="/post/xnfe/07082025_3.jpg" alt="front" caption="Front - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_4.jpg" alt="right" caption="Right - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_5.jpg" alt="back" caption="Back - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_6.jpg" alt="left" caption="Left - 07-08-2025">}}
+
+### Full view + Mini Rabbits
+
+{{< imagecenter url="/post/xnfe/07082025_2.jpg" alt="full view" caption="Full view - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_7.jpg" alt="mini rabbits front" caption="Mini Rabbits Front - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_8.jpg" alt="mini rabbits back" caption="Mini Rabbits Back - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_9.jpg" alt="mini rabbits side" caption="Mini Rabbits Side - 07-08-2025">}}
+
+{{< imagecenter url="/post/xnfe/07082025_10.jpg" alt="mini rabbits top" caption="Mini Rabbits Top - 07-08-2025">}}
+
+### Turntable
+
+{{< video "/post/xnfe/xnfe-camera-fullshot-fullquality.mp4" >}}
+
+## 3D Printing Prep
+
+(In progess...)
