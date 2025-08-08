@@ -1,6 +1,6 @@
 ---
 title: "XNFE"
-description:  Fan art 3D model of XNFE from Black Rock Shooter The Game.
+description:  "Fan art 3D model of XNFE from Black Rock Shooter: The Game."
 date: 2025-07-08T12:00:00Z
 lastmod: '2025-08-07T21:50:00+07:00'
 image: post/xnfe/cover-xnfe.webp
@@ -12,7 +12,7 @@ hidden: false
 comments: true
 ---
 
-Hi, this time I'll make XNFE - /Nafe/ from Black Rock Shooter The Game.
+Hi, this time I'll make XNFE - /Nafe/ from Black Rock Shooter: The Game.
 
 I'll keep updating this post until I finish the 3D render version of this model.
 
