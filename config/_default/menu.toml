@@ -40,3 +40,11 @@ url = "https://www.facebook.com/phannhutminh1298"
 
 [[social.params]]
 icon = "brand-facebook"
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:phannhutminh@proton.me"
+
+[social.params]
+icon = "mail"
