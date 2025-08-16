@@ -12,7 +12,22 @@ comments: true
 draft: false
 ---
 I choose character from wheel of names. And Jo (Bakuretsu Tenshi) is the next character I gonna make.
+I'll use this pose below for Jo and with a bit of adjustment. Like adding her jacket, her gloves,... And I'll make Meg and the rest of the girl from Bakuretsu cast too.
+
+{{< imagecenter url="/post/jo/jo.jpg" alt="jo_meg" caption="Jo & Meg - Pose">}}
 
 ## Base body and head
+
+`14/08/2025` - Finished the head, may adjust more later.
+
+{{< imagecenter url="/post/jo/14082025.jpg" alt="Head" caption="Head - 14-08-2025">}}
+
+`15/08/2025` - I'm making her body and clothes block out. And This is how it look.
+
+{{< imagecenter url="/post/jo/15082025.jpg" alt="body & clothes" caption="Body & clothes - 15-08-2025">}}
+
+## Clothes
+
+`16/08/2025` Progress on clothes. I try to make Jo's jacket, from 2 QCube `(15/08/2025 image)` for shape block out (the frist QCube is neck collar and second for jacket), Move brush and Gizmo to get tha basic shape after that use the jacket base mesh add neck collar (with ZModeller), after clean up you have a full jacket at lowest polycount base on the collar base mesh. The neck collar base mesh will be use for `fur` in the jacket latter. Now it time to add thickness with ZModeler, after that add subdivision, then carving detail with Damstandard. The arm jacket part I will work from a Capsle base mesh from IMM Primitive brush, If I haven't pose first then make the jacket, then I could have not need to create the arm jacket from IMM brush and may be the jacket may look better. Now, I make sure to scale the capsle to arm size but a bit larger then move and modify with Gizmo and Move Brush > Add line/clothes folds with damstandard. Next I use Topology brush for pocket in Jacket > ZModeler add more polyloop then QMesh to carve out pocket hole > Subdiv for higher res > Use Standard + Damstandard for clothes folds/line on Pocket. For all Clothes metal screws I use IMM Clothes something Brush.
 
 (in progress)
