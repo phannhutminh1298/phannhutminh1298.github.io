@@ -2,6 +2,7 @@
 title: "Jo"
 description:  Fan art 3D model of Jo from Bakuretsu Tenshi.
 date: 2025-08-08T06:53:14Z
+lastmod: '2025-08-16T16:57:00+07:00'
 image: post/jo/cover-jo.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
