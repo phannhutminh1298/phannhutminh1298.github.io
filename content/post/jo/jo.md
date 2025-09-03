@@ -2,7 +2,7 @@
 title: "Jo"
 description:  Fan art 3D model of Jo from Bakuretsu Tenshi.
 date: 2025-08-08T06:53:14Z
-lastmod: '2025-09-02T16:07:00+07:00'
+lastmod: '2025-09-03T13:30:00+07:00'
 image: post/jo/cover-jo.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5]
@@ -55,10 +55,34 @@ I do feel like post my process on making things, but I'm not as skillfull as tho
 
 ## 3D Render in Marmoset Toolbag 5
 
+`03/09/2025` Render in toolbag 5.
+
 ### Closeup
+
+{{< imagecenter url="/post/jo/03092025_0.webp" alt="Close up" caption="Close up - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_1.webp" alt="Close up no jacket" caption="Close up no jacket - 03-09-2025">}}
 
 ### Fullbody
 
+{{< imagecenter url="/post/jo/03092025_2.webp" alt="Front" caption="Front - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_3.webp" alt="Front no jacket" caption="Front no jacket - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_8.webp" alt="Back" caption="Back - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_9.webp" alt="Back no jacket" caption="Back no jacket - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_6.webp" alt="Right" caption="Right - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_7.webp" alt="Right no jacket" caption="Right no jacket - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_4.webp" alt="Left" caption="Left - 03-09-2025">}}
+
+{{< imagecenter url="/post/jo/03092025_5.webp" alt="Left no jacket" caption="Left no jacket - 03-09-2025">}}
+
 ### Turntable
+
+{{< video "/post/jo/Jo.mp4" >}}
 
 > After this I will make Amy.
