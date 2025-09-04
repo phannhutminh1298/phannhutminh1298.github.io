@@ -5,7 +5,7 @@ date: 2025-08-08T06:53:14Z
 lastmod: '2025-09-03T13:30:00+07:00'
 image: post/jo/cover-jo.webp
 categories: 3D Anime Figure
-tags: [ZBrush, Projects, Marmoset Toolbag 5]
+tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
 math: 
 license: 
 hidden: false

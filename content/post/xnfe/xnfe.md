@@ -5,7 +5,7 @@ date: 2025-07-08T12:00:00Z
 lastmod: '2025-08-07T21:50:00+07:00'
 image: post/xnfe/cover-xnfe.webp
 categories: 3D Anime Figure
-tags: [ZBrush, Projects, Marmoset Toolbag 5]
+tags: [ZBrush, Projects, Marmoset Toolbag 5, huke]
 math: 
 license: 
 hidden: false
