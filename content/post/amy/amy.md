@@ -2,7 +2,7 @@
 title: "Amy"
 description: Fan art 3D model of Amy from Bakuretsu Tenshi.
 date: 2025-09-04T06:56:56Z
-lastmod: '2025-09-11T14:39:00+07:00'
+lastmod: '2025-09-14T00:21:00+07:00'
 image: post/amy/cover-amy.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
@@ -35,6 +35,10 @@ This time I will make Amy from Bakuretsu Tenshi. I already have a pose in mind, 
 
 ## Clothes + Accessories
 
+`14/09/2025` Pose completed with underwear and shoes. I'll start making clothes and accessories now. The plushi is done posing as well.
+
+{{< imagecenter url="/post/amy/14092025_1.jpg" alt="WIP Clothes" caption="WIP Clothes - 14-09-2025">}}
+
 ## The plushi
 
 `11/09/2025` WIP of the plushi. I decided to go with the anime version of the plushi.
@@ -42,6 +46,14 @@ This time I will make Amy from Bakuretsu Tenshi. I already have a pose in mind, 
 {{< imagecenter url="/post/amy/11092025_0.jpg" alt="WIP Plushi" caption="WIP Plushi - 11-09-2025">}}
 
 Now I will refine and adding the rabbit ears, the hat, the zipper.
+
+`14/09/2025` I'll keep the plushi like this for now.
+
+{{< imagecenter url="/post/amy/14092025_0.jpg" alt="WIP Plushi" caption="WIP Plushi- 14-09-2025">}}
+
+Next is making the plushi's hat.
+
+...
 
 ## Finale ZBursh Viewport
 
