@@ -2,7 +2,7 @@
 title: "Amy"
 description: Fan art 3D model of Amy from Bakuretsu Tenshi.
 date: 2025-09-04T06:56:56Z
-lastmod: '2025-09-14T00:21:00+07:00'
+lastmod: '2025-09-18T00:23:18+07:00'
 image: post/amy/cover-amy.webp
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
@@ -53,12 +53,34 @@ Now I will refine and adding the rabbit ears, the hat, the zipper.
 
 Next is making the plushi's hat.
 
-...
+`14/09/2025` Plushi's hat. And the plushi is done for now. I'll start making clothes for Amy.
+
+{{< imagecenter url="/post/amy/14092025_2.jpg" alt="Plushi" caption="Plushi- 14-09-2025">}}
 
 ## Finale ZBursh Viewport
 
+`18/09/2025` Just finish the base today. And finally adjust all subtools. Below is the final result.
+
+{{< imagecenter url="/post/amy/18092025_0.jpg" alt="ZBursh Viewport" caption="ZBursh Viewport - 18-09-2025">}}
+
 ## 3D Render in Marmoset Toolbag 5
+
+### Closeup
+
+{{< imagecenter url="/post/amy/amy_close.png" alt="Close up" caption="Close up - 18-09-2025">}}
+
+### Fullbody
+
+{{< imagecenter url="/post/amy/amy_front.png" alt="front" caption="Front - 18-09-2025">}}
+
+{{< imagecenter url="/post/amy/amy_left.png" alt="left" caption="Left - 18-09-2025">}}
+
+{{< imagecenter url="/post/amy/amy_right.png" alt="right" caption="Right - 18-09-2025">}}
+
+{{< imagecenter url="/post/amy/amy_back.png" alt="back" caption="Back - 18-09-2025">}}
+
+{{< imagecenter url="/post/amy/amy_compare_to_jo.png" alt="back" caption="Compare to Jo - 18-09-2025">}}
 
 ### Turntable
 
-{{< video "/post/jo/Amy.mp4" >}}
+{{< video "/post/amy/amy_turntable.mp4" >}}
