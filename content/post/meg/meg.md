@@ -2,7 +2,7 @@
 title: "Meg"
 description: Fan art 3D model of Meg from Bakuretsu Tenshi.
 date: 2025-09-19T16:59:41Z
-lastmod: '2025-10-02T00:30:00+07:00'
+lastmod: '2025-10-08T00:05:00+07:00'
 image: post/meg/cover-meg.jpg
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
@@ -23,6 +23,14 @@ Same as Jo, I'll use the pose below for this project. And I may adjust the pose 
 {{< imagecenter url="/post/meg/01102025_0.jpg" alt="head wip " caption="Head WIP - 01-10-2025">}}
 
 ## Clothes + Accessories
+
+`04/10/2025` clothes + Accessories WIP.
+
+{{< imagecenter url="/post/meg/04102025_0.jpg" alt="clothes + accessories wip " caption="Clothes + Accessories WIP - 04-10-2025">}}
+
+`07/10/2025` WIP. Mostly done by now. I currently making the waist bag.
+
+{{< imagecenter url="/post/meg/07102025_0.jpg" alt="clothes + accessories wip " caption="Clothes + Accessories WIP - 07-10-2025">}}
 
 ## Guns
 
