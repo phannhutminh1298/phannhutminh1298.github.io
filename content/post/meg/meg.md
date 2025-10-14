@@ -39,7 +39,7 @@ Same as Jo, I'll use the pose below for this project. And I may adjust the pose 
 {{< imagecenter url="/post/meg/27092025_0.jpg" alt="guns" caption="Guns - 27-09-2025">}}
 
 ## Finale ZBursh Viewport
- 
+
 `14/10/2025` I changed placement of the rifle. Since it was impossible to have it hanged at the back with while having her hair floating in the air. And I had changed the base for all previous characters as well to suit with Meg's base. Images bellow is the final stage of Meg, now I will prepare her to 3D render.
 
 {{< imagecenter url="/post/meg/14102025_0.jpg" alt="am jo meg" caption="Amy Jo Meg - 14-10-2025">}}
