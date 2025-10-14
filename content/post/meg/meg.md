@@ -2,7 +2,7 @@
 title: "Meg"
 description: Fan art 3D model of Meg from Bakuretsu Tenshi.
 date: 2025-09-19T16:59:41Z
-lastmod: '2025-10-08T00:05:00+07:00'
+lastmod: '2025-10-14T14:08:00+07:00'
 image: post/meg/cover-meg.jpg
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
@@ -34,11 +34,17 @@ Same as Jo, I'll use the pose below for this project. And I may adjust the pose 
 
 ## Guns
 
-`27/09/2025` I'll make meg hold the revolver in one hand and the big riffle will be hanged on her back.
+`27/09/2025` I'll make meg hold the revolver in one hand and the big rifle will be hanged on her back.
 
 {{< imagecenter url="/post/meg/27092025_0.jpg" alt="guns" caption="Guns - 27-09-2025">}}
 
 ## Finale ZBursh Viewport
+ 
+`14/10/2025` I changed placement of the rifle. Since it was impossible to have it hanged at the back with while having her hair floating in the air. And I had changed the base for all previous characters as well to suit with Meg's base. Images bellow is the final stage of Meg, now I will prepare her to 3D render.
+
+{{< imagecenter url="/post/meg/14102025_0.jpg" alt="am jo meg" caption="Amy Jo Meg - 14-10-2025">}}
+
+{{< imagecenter url="/post/meg/14102025_1.jpg" alt="meg" caption="Meg - 14-10-2025">}}
 
 ## 3D Render in Marmoset Toolbag 5
 
