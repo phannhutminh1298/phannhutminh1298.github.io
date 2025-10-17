@@ -2,7 +2,7 @@
 title: "Meg"
 description: Fan art 3D model of Meg from Bakuretsu Tenshi.
 date: 2025-09-19T16:59:41Z
-lastmod: '2025-10-14T14:08:00+07:00'
+lastmod: '2025-10-16T23:00:00+07:00'
 image: post/meg/cover-meg.jpg
 categories: 3D Anime Figure
 tags: [ZBrush, Projects, Marmoset Toolbag 5, Bakuretsu Tenshi]
@@ -50,8 +50,22 @@ Same as Jo, I'll use the pose below for this project. And I may adjust the pose 
 
 ### Closeup
 
+{{< imagecenter url="/post/meg/16102025_0.png" alt="meg close up" caption="Meg close up - 16-10-2025">}}
+
 ### Fullbody
+
+{{< imagecenter url="/post/meg/16102025_1.png" alt="meg 01" caption="Meg 01 - 16-10-2025">}}
+
+{{< imagecenter url="/post/meg/16102025_3.png" alt="meg 02" caption="Meg 02 - 16-10-2025">}}
+
+{{< imagecenter url="/post/meg/16102025_4.png" alt="meg 03" caption="Meg 03 - 16-10-2025">}}
+
+{{< imagecenter url="/post/meg/16102025_5.png" alt="meg 04" caption="Meg 04 - 16-10-2025">}}
+
+### Amy Jo Meg
+
+{{< imagecenter url="/post/meg/16102025_2.png" alt="amy jo meg" caption="Amy Jo Meg - 16-10-2025">}}
 
 ### Turntable
 
-{{< video "/post/meg/meg.mp4" >}}
+{{< video "/post/meg/Meg.mp4" >}}
