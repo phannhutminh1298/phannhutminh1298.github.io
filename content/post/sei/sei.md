@@ -1,6 +1,6 @@
 ---
 title: "Sei"
-description: 
+description: Fan art 3D model of Sei from Bakuretsu Tenshi.
 date: 2025-10-17T02:14:47Z
 lastmod: '2025-10-16T23:00:00+07:00'
 image: post/sei/cover-sei.jpg
