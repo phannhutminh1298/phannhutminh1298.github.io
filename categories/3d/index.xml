@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D on Phan Nhựt Minh</title><link>https://phannhutminh1298.github.io/categories/3d/</link><description>Recent content in 3D on Phan Nhựt Minh</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Jun 2025 12:24:02 +0000</lastBuildDate><atom:link href="https://phannhutminh1298.github.io/categories/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>Cắt subtool bằng LiveBoolean</title><link>https://phannhutminh1298.github.io/p/c%E1%BA%AFt-subtool-b%E1%BA%B1ng-liveboolean/</link><pubDate>Tue, 03 Jun 2025 12:24:02 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/c%E1%BA%AFt-subtool-b%E1%BA%B1ng-liveboolean/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/cut-subtool-with-live-boolean/cover-cut-subtool-with-live-boolean.webp" alt="Featured image of post Cắt subtool bằng LiveBoolean" /&gt;&lt;h2 id="tóm-tắt"&gt;Tóm tắt
+&lt;/h2&gt;&lt;p&gt;Để sử dụng LiveBoolean để cắt một subtool thì:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Để subtool cần cắt (gọi là &lt;code&gt;Target&lt;/code&gt;) nằm trên subtool dùng để cắt (gọi là &lt;code&gt;Cutter&lt;/code&gt; ). Theo tứ tự từ trên xuống: &lt;code&gt;Target&lt;/code&gt;, &lt;code&gt;Cutter&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Chỉ hiện 2 subtool này (icon con mắt bên phải hai subtool).&lt;/li&gt;
+&lt;li&gt;Bấm icon ngoài cùng bên trái của subtool &lt;code&gt;Target&lt;/code&gt; &amp;gt; Icon sẽ thêm chữ &lt;code&gt;Start&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Chuyển qua suntool &lt;code&gt;cutter&lt;/code&gt;, bấm icon thứ 3 từ trái sang của subtool Cutter.&lt;/li&gt;
+&lt;li&gt;Bật &lt;code&gt;LiveBoolean&lt;/code&gt; (Menu top&amp;gt; Render &amp;gt; Render Booleans &amp;gt; bấm LiveBoolean).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Cutter&lt;/code&gt; giờ sẽ tàn hình &amp;gt; di chuyển cutter sao cho vừa ý.&lt;/li&gt;
+&lt;li&gt;Qua danh sách subtools, kéo xuống kiếm &lt;code&gt;Boolean&lt;/code&gt;, bấm vào sẽ hiện ra &lt;code&gt;Make Boolean Mesh&lt;/code&gt;, rồi bấm vào.&lt;/li&gt;
+&lt;li&gt;Một Tool mới sẽ được tạo ra với tên có &lt;code&gt;UMesh...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Chỉ cần kéo xuống từ menu subtool &amp;gt; Bấm &lt;code&gt;Append&lt;/code&gt; &amp;gt; Chọn tool có tên &lt;code&gt;Umesh...&lt;/code&gt; &amp;gt; là xong, &lt;code&gt;Target&lt;/code&gt; sau khi bị cắt đã được thêm vào lại.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="youtube-guide"&gt;Youtube guide
+&lt;/h2&gt;&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/IbGBL1grZ7A"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;</description></item><item><title>Gộp 2 Subtool thành 1</title><link>https://phannhutminh1298.github.io/p/g%E1%BB%99p-2-subtool-th%C3%A0nh-1/</link><pubDate>Tue, 13 May 2025 06:51:01 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/g%E1%BB%99p-2-subtool-th%C3%A0nh-1/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/merge-2-subtool-to-1/merge-2-subtool-to-1.webp" alt="Featured image of post Gộp 2 Subtool thành 1" /&gt;&lt;p&gt;Ghi chú để phòng khi quên cách làm. Đây là cách để gộp 2 hay nhiều subtool thành một subtool liền mạch duy nhất. Không phải gộp như việc merge down,&amp;hellip; mà vẫn còn tách rời nhau ra được.&lt;/p&gt;
+&lt;h2 id="dynamesh"&gt;Dynamesh
+&lt;/h2&gt;&lt;p&gt;Cách này phụ thuộc vào mật độ lưới rất nhiều, 2 subtool góc càng dày lưới thì càng tốt.&lt;/p&gt;
+&lt;p&gt;Subtool &amp;gt; xếp 2 subtool cần gộp liền kề nhau &amp;gt; chọn subtool bên trên &amp;gt; &amp;lsquo;merge&amp;rsquo; &amp;gt;&amp;lsquo;merge down&amp;rsquo; &amp;gt; duplicate 1 lần để back up &amp;gt; bấm subtool mới vừa được gộp &amp;gt; Dynamesh (chỉnh resolution càng cao thì càng giữ được chi tiết) &amp;gt; Sau khi ưng ý unmask subtool (nếu có mask) &amp;gt; Hiện subtool back up (icon con mắt góc trên phải của subtool) &amp;gt; bấm subtool vừa Dynamesh &amp;gt; Project All &amp;gt; Smooth artifact/etc &amp;gt; Ưng ý thì tăng Subdiv lên &amp;gt; Project all tiếp &amp;gt; lặp lại&amp;hellip; &amp;gt; Khi đã ưng thì ngừng.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dùng để gọp các khối lớn không cần góc cạnh nhọn&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="video-tham-khảo"&gt;Video tham khảo
+&lt;/h3&gt;&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/o85aYSTu8K0"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id="boolean"&gt;Boolean
+&lt;/h2&gt;&lt;p&gt;Như trên cũng cần lưới cao nhưng tuỳ trường hợp, cũng phải &amp;gt; ZRemesh &amp;gt; project all &amp;gt; smooth &amp;gt; lặp lại&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Chuẩn bị một Folder chứa 2 subtool &amp;gt; xuống subtool thứ 2 từ trên xuống &amp;gt; bấm icon 2 vòng tròn giao nhau góc trên bên tái subtool, đứng thứ 2 từ trái qua &amp;gt; Bấm Live Boolean &amp;gt; Lên subtool trên cũng bấm &amp;ldquo;live boolean&amp;rdquo; &amp;gt; bấm icon bánh răng chọn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Boolean Folder&amp;rdquo; &amp;gt; Subtool mới được tạo ra từ 2 subtool cũ.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Boolean with DynamicSubDivision &amp;gt; Subtool mới được tạo ra từ 2 subtool cũ nhưng sẽ đi kèm với DynamicSubDivision &amp;gt; lưới dày hơn smooth hơn/bù lại nặng hơn là load lâu hơn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lưu ý:&lt;/strong&gt; Boolean with DynamicSubDivision sẽ cho ra kết quả &lt;strong&gt;REVIEW TRƯỚC CỦA LƯỚI DÀY&lt;/strong&gt; &amp;gt; Để có lưới dày thực vào Geometry &amp;gt; tắt Dynamic đi &amp;gt; Ctrl + D cho đến khi vừa ý.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dùng để gọp những thứ cần độ chính xác cao hơn.&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Cách làm dây ốp trong ZBrush</title><link>https://phannhutminh1298.github.io/p/c%C3%A1ch-l%C3%A0m-d%C3%A2y-%E1%BB%91p-trong-zbrush/</link><pubDate>Tue, 15 Apr 2025 14:49:51 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/c%C3%A1ch-l%C3%A0m-d%C3%A2y-%E1%BB%91p-trong-zbrush/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/make-straps-lines-zbrush/cover-lam-day-op-trong-zbrush.webp" alt="Featured image of post Cách làm dây ốp trong ZBrush" /&gt;&lt;p&gt;Ghi chú để phòng khi quên cách làm.
+Khi làm quần áo nhiều khi sẽ cần các bộ phận lồi ra. Ví dụ như các lằn vải,&amp;hellip; Để làm chúng thì có nhiều cách.&lt;/p&gt;
+&lt;h2 id="sử-dụng-mask-rồi-extract"&gt;Sử dụng Mask rồi Extract
+&lt;/h2&gt;&lt;p&gt;Dùng cọ Mask vùng cần thiết (có thể mask bằng Polygroup/Color cho tiết kiệm thời gian) &amp;gt; Bấm &amp;lsquo;Tool&amp;rsquo; trong menu top &amp;gt; Bấm &amp;lsquo;SubTool&amp;rsquo; &amp;gt; Bấm Extract &amp;gt; Điều chỉnh để có được mức mong muốn &amp;gt; Bấm &amp;lsquo;Extract&amp;rsquo; &amp;gt; Phần được Mask sẽ được tạo một mesh lồi ra &amp;gt; Nếu ứng ý bấm &amp;lsquo;Accept&amp;rsquo; trong menu &amp;lsquo;Extract&amp;rsquo;.&lt;/p&gt;
+&lt;h3 id="ưu--nhược"&gt;Ưu &amp;amp; nhược
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;Ưu&lt;/th&gt;
+&lt;th style="text-align: center"&gt;Nhược&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;Đơn giản&lt;/td&gt;
+&lt;td style="text-align: center"&gt;Phần Extract ra khá xấu cần điều chỉnh lại&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;Kiểm soát được độ dày của mesh được extract&lt;/td&gt;
+&lt;td style="text-align: center"&gt;Dễ xuất hiện Artifact do mask, và lưới siêu dày đặc khó đảm bảo kết cấu&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="sử-dụng-masklasso"&gt;Sử dụng MaskLasso
+&lt;/h2&gt;&lt;p&gt;Lưới phải đẹp khi xài cách này và yêu cầu vật thể hơi hard surface một tý và phải có mật độ lưới dày, cộng không bị biến dạng quá.
+Bấm &amp;lsquo;B&amp;rsquo; &amp;gt; Bấm &amp;lsquo;MaskLasso&amp;rsquo; &amp;gt; Bật lưới subtool = bấm &amp;lsquo;Shift + F&amp;rsquo; &amp;gt; Zoom lên nếu cần &amp;gt; Giữ &amp;lsquo;Ctrl + Shift&amp;rsquo; click một &amp;rsquo;edge&amp;rsquo; &amp;gt; làm đúng thì nguyên 1 đường kể từ edge đó sẽ bị ẩn &amp;gt; đảo ngược ẩn = &amp;lsquo;Ctrl + Shift + quét một vùng bên ngoài&amp;rsquo; &amp;gt; &amp;lsquo;Mask&amp;rsquo; line hiện lên &amp;gt; Bấm &amp;lsquo;Ctrl + Shift&amp;rsquo; bên ngoài để show phần bị ẩn &amp;gt; từ menu top kiếm thanh trược &amp;lsquo;Inflate&amp;rsquo; kéo tăng/để làm lồi hoặc giảm/để tạo lằng kẻ &amp;gt; ưng ý thì &amp;gt; đảo ngược Mask = &amp;lsquo;Ctrl + Bấm ngoài nền&amp;rsquo; &amp;gt; đổi Brush &amp;lsquo;Pinch&amp;rsquo; đồ theo đường để làm khít &amp;gt; có thể chuyển tiếp qua brush &amp;lsquo;Inflate&amp;rsquo; để đồ tiếp cho nó hơi có tính vải.&lt;/p&gt;
+&lt;h3 id="ưu--nhược-1"&gt;Ưu &amp;amp; nhược
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;Ưu&lt;/th&gt;
+&lt;th style="text-align: center"&gt;Nhược&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;Thích hợp với vật thể có lưới quá dày + có hình dạng hơi hard surface&lt;/td&gt;
+&lt;td style="text-align: center"&gt;muốn đẹp phải đồ cọ &amp;lsquo;Pinch&amp;rsquo; với &amp;lsquo;Inflate&amp;rsquo; nhiều&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="sử-dụng-brush-topology"&gt;Sử dụng brush Topology
+&lt;/h2&gt;&lt;p&gt;Bấm &amp;lsquo;B&amp;rsquo; &amp;gt; Bấm &amp;lsquo;T&amp;rsquo; &amp;gt; Chọn brush có tên &amp;lsquo;Topo&amp;hellip;&amp;rsquo; &amp;gt; Vẽ theo kiểu lưới geometry trong zmodeler: các ô vuông &amp;gt; Vd: Để vẽ một cộng dây strap &amp;gt; đây là hình chữ nhật &amp;gt; Vẽ hai đường thẳng song song trên bề mặt của subtool (vd: quần áo) &amp;gt; vẽ tiếp các gạch ngang để chia thành các ô như lưới geometry &amp;gt; Khi đã ưng ý click ra ngoài lên subtool đang vẽ line &amp;gt; Nếu ưng ý với kết quả bấm &amp;lsquo;Split Unmasked&amp;hellip;&amp;rsquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lưu ý:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Đảm bảo vật thể được vẽ strap lên không có subdivision &amp;gt; có thể tạm dupliacte vật thể có nhiều Subdivision rồi del lower/higher subdivision để dùng tạm.&lt;/li&gt;
+&lt;li&gt;Cỡ brush càng nhỏ thì càng tạo được nhiều ô nên strap tạo ra sẽ chi tiết hơn.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="ưu--nhược-2"&gt;Ưu &amp;amp; nhược
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;Ưu&lt;/th&gt;
+&lt;th style="text-align: center"&gt;Nhược&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;Phần extact ra có lưới thấp dể kiểm soát hơn nên thành phẩm đẹp hơn&lt;/td&gt;
+&lt;td style="text-align: center"&gt;Phải chỉnh lưới hơi nhiều&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="kẻ-thẳng-lên-để-tạo-lằng"&gt;Kẻ thẳng lên để tạo lằng
+&lt;/h2&gt;&lt;h3 id="dùng-cọ-imm"&gt;Dùng cọ IMM
+&lt;/h3&gt;&lt;p&gt;Thường phải đi tải trên mạng về xài. Nhưng kết quả lại đẹp, thích hợp để đặt tả đường chỉ, khâu,&amp;hellip;&lt;/p&gt;
+&lt;h3 id="dùng-cọ-có-sẵn"&gt;Dùng cọ có sẵn
+&lt;/h3&gt;&lt;p&gt;Thường là &amp;lsquo;DamStan&amp;hellip;&amp;rsquo; và &amp;lsquo;Standard&amp;rsquo;. Cần kéo thanh &amp;lsquo;LayzyRadius&amp;rsquo; ~ 20, kéo thanh RollDist một xíu lên, tăng/giảm size brush và ZIntensity = giữ &amp;lsquo;Space&amp;rsquo; để hiện menu điều chỉnh. Rồi vẽ lên vật thể.&lt;/p&gt;
+&lt;h3 id="ưu--nhược-3"&gt;Ưu &amp;amp; nhược
+&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;Ưu&lt;/th&gt;
+&lt;th style="text-align: center"&gt;Nhược&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;Ít điều chỉnh nhiều bước&lt;/td&gt;
+&lt;td style="text-align: center"&gt;Nếu chỉ cần kể một line, dây ốp thì ok nhưng nếu phải tạo nhiều line/dây ốp cùng lúc (cùng kích cỡ) thì ko nên xài cách này&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Làm Custom Brush trong ZBrush</title><link>https://phannhutminh1298.github.io/p/l%C3%A0m-custom-brush-trong-zbrush/</link><pubDate>Mon, 14 Apr 2025 12:05:20 +0000</pubDate><guid>https://phannhutminh1298.github.io/p/l%C3%A0m-custom-brush-trong-zbrush/</guid><description>&lt;img src="https://phannhutminh1298.github.io/post/make-custom-brush-in-zbrush/cover-lam-custom-brush-trong-zbrush.webp" alt="Featured image of post Làm Custom Brush trong ZBrush" /&gt;&lt;p&gt;Ghi chú để phòng khi quên cách làm brush.&lt;/p&gt;
+&lt;h2 id="imm-brush"&gt;IMM Brush
+&lt;/h2&gt;&lt;p&gt;Là những brush dùng để insert một mesh hay vật thể (ví dụ: đinh, óc, tóc,&amp;hellip;). Thông thường với những vật thể như đinh óc thì không cần curve mode để vẽ ra như tóc.&lt;/p&gt;
+&lt;h3 id="đối-với-mấy-thứ-không-cần-curve-mode"&gt;Đối với mấy thứ không cần curve mode
+&lt;/h3&gt;&lt;p&gt;Tạo được xong subtool ưng ý &amp;gt; Đảm bảo có ít nhất từ 2 subtool trở lên &amp;gt; Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Create&amp;rsquo; &amp;gt; Bấm Create InsertMultiMesh&amp;rsquo;.
+Xong giờ chỉ việc lưu.&lt;/p&gt;
+&lt;h3 id="với-những-thứ-cần-curve-mode"&gt;Với những thứ cần curve mode
+&lt;/h3&gt;&lt;p&gt;Sao khi tạo xong đảm bảo hướng của vật thể như hình.
+&lt;img src="https://phannhutminh1298.github.io/post/make-custom-brush-in-ZBrush/lam-custom-brush-trong-ZBrush-1.webp"
+loading="lazy"
+alt="Làm Custom Brush trong ZBrush"
+&gt;
+Tạo được xong subtool ưng ý &amp;gt; Đảm bảo có ít nhất từ 2 subtool trở lên &amp;gt; Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Create&amp;rsquo; &amp;gt; Bấm Create InsertMultiMesh&amp;rsquo;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tiến hành dùng thử brush. Hãy tạo một Polymesh3D của một đối tượng bất kỳ rồi vẽ lên đó.
+Đảm bảo &amp;lsquo;Z Intensity&amp;rsquo; của Brush vừa tạo là 100 và &amp;lsquo;Focal Shift&amp;rsquo; là 0 (Ấn &amp;lsquo;Space&amp;rsquo; &amp;gt; Kéo &amp;lsquo;Z Intensity&amp;rsquo; lên 100 và kéo &amp;lsquo;Focal Shift&amp;rsquo; về 0) để tránh tình trạng vẽ ra vật thể bị ép dẹp lép.
+Nhìn thanh menu trên top &amp;gt; Bấm &amp;lsquo;Stroke&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Curve&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Curve Mode&amp;rsquo; &amp;gt; Hạ &amp;lsquo;Curve Step&amp;rsquo; ~ 0.8, vì đối với các vật thể như dây xích nếu không hạ thì khi vẽ ra dây xích các mắc xích sẽ không luồn vào nhau. Đối với tóc thì không cần chỉnh &amp;lsquo;Curve Step&amp;rsquo;.
+Khi đã ứng ý thì tiếng hành lưu. Khi lưu tất cả cài đặt về &amp;lsquo;Curve&amp;rsquo; cũng sẽ được lưu lại. Lúc xài nếu cần chỉnh lại &amp;lsquo;Curve Step&amp;rsquo; có thể chỉnh thoải mái.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="cách-lưu-để-xài"&gt;Cách lưu để xài
+&lt;/h2&gt;&lt;p&gt;Nhìn thanh menu top &amp;gt; bấm &amp;lsquo;Brush&amp;rsquo; &amp;gt; menu hiện ra &amp;gt; Bấm &amp;lsquo;Save as&amp;rsquo; &amp;gt; Cửa sổ win dow hiện ra &amp;gt; Nhập tên cần lưu &amp;lsquo;IMM_something.ZBP&amp;rsquo; &amp;gt; Chọn nơi lưu &amp;lsquo;(C:\Program Files\Maxon ZBrush 2023\ZData\BrushPresets)&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Save&amp;rsquo;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nếu muốn mỗi lần khởi động ZBrush mà brush tự load thì Save ở (C:\Program Files\Maxon ZBrush 2023\ZStartup\BrushPresets)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="nếu-mở-zbrush-lến-mà-không-thấy-brush-mình-lưu"&gt;Nếu mở ZBrush lến mà không thấy brush mình lưu?
+&lt;/h2&gt;&lt;p&gt;Bấm &amp;lsquo;b&amp;rsquo; &amp;gt; Bấm &amp;lsquo;Load Brush&amp;rsquo; đi đến chỗ lưu file &amp;lsquo;.ZBP&amp;rsquo; &amp;gt; Chọn file cần mở &amp;gt; Xong.&lt;/p&gt;</description></item></channel></rss>
